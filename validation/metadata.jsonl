@@ -1,0 +1,3 @@
+{"file_name": "125576.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ATAUTX000010024<<<<<<<<<<<<<<<\", \"mrz2\": \"8112314F1912319UTO<<<<<<<<<<<4\", \"mrz3\": \"MUSTERFRAU<<MARIA<<<<<<<<<<<<<\"}}"}
+{"file_name": "239193.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000622738<<<<<<<<<<<<<<<\", \"mrz2\": \"1101018M1702242AUT<<<<<<<<<<<2\", \"mrz3\": \"MUSTERMANN<<MAX<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "239265.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000004019<<<<<<<<<<<<<<<\", \"mrz2\": \"1101018M1106264AUT<<<<<<<<<<<2\", \"mrz3\": \"MUSTERMANN<<MAX<<<<<<<<<<<<<<<\"}}"}

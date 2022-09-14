@@ -1,0 +1,8 @@
+TRAIN
+- AUT
+
+TEST
+- AUT
+
+VALIDATION
+- AUT

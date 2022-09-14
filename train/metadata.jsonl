@@ -1,0 +1,26 @@
+{"file_name": "123460.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ATAUTX000010046<<<<<<<<<<<<<<<\", \"mrz2\": \"8112314F1012312UTO<<<<<<<<<<<0\", \"mrz3\": \"MUSTERFRAU<<MARIA<<<<<<<<<<<<<\"}}"}
+{"file_name": "123962.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ATAUTA000000000<<<<<<<<<<<<<<<\", \"mrz2\": \"8501019F0701019<<<<<<<<<<<<<<9\", \"mrz3\": \"MUSTERFRAU<<MANUELA<<<<<<<<<<<\"}}"}
+{"file_name": "125108.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ATAUTX000010035<<<<<<<<<<<<<<<\", \"mrz2\": \"8112314F191231UTO<<<<<<<<<<<<2\", \"mrz3\": \"MUSTERFRAU<<MARIA<<<<<<<<<<<<<\"}}"}
+{"file_name": "125559.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ATAUTX000010013<<<<<<<<<<<<<<<\", \"mrz2\": \"8112314F191231UTO<<<<<<<<<<<<6\", \"mrz3\": \"MUSTERFRAU<<MARIA<<<<<<<<<<<<<\"}}"}
+{"file_name": "237621.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ATAUTA123456784<<<<<<<<<<<<<<<\", \"mrz2\": \"8101017F1812316UTO<<<<<<<<<<<0\", \"mrz3\": \"MUSTERFRAU<<MARIA<<<<<<<<<<<<<\"}}"}
+{"file_name": "237647.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ATAUTA123456784<<<<<<<<<<<<<<<\", \"mrz2\": \"8101017F1412314UTO<<<<<<<<<<<0\", \"mrz3\": \"MUSTERFRAU<<MARIA<<<<<<<<<<<<<\"}}"}
+{"file_name": "237695.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ATAUTA123456784<<<<<<<<<<<<<<<\", \"mrz2\": \"8101017F1812316UTO<<<<<<<<<<<0\", \"mrz3\": \"MUSTERFRAU<<MARIA<<<<<<<<<<<<<\"}}"}
+{"file_name": "237917.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000000343<<<<<<<<<<<<<<<\", \"mrz2\": \"7004018M0506032ARG<<<<<<<<<<<0\", \"mrz3\": \"MUSTERMANN<<KARL<<<<<<<<<<<<<<\"}}"}
+{"file_name": "237977.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000000343<<<<<<<<<<<<<<<\", \"mrz2\": \"7004018M0506032ARG<<<<<<<<<<<0\", \"mrz3\": \"MUSTERMANN<<KARL<<<<<<<<<<<<<<\"}}"}
+{"file_name": "238289.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000000343<<<<<<<<<<<<<<<\", \"mrz2\": \"7004018M0506032ARG<<<<<<<<<<<0\", \"mrz3\": \"MUSTERMANN<<KARL<<<<<<<<<<<<<<\"}}"}
+{"file_name": "238300.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000000343<<<<<<<<<<<<<<<\", \"mrz2\": \"7004018M0506032ARG<<<<<<<<<<<0\", \"mrz3\": \"MUSTERMANN<<KARL<<<<<<<<<<<<<<\"}}"}
+{"file_name": "238311.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000000343<<<<<<<<<<<<<<<\", \"mrz2\": \"7004018M0506032ARG<<<<<<<<<<<0\", \"mrz3\": \"MUSTERMANN<<KARL<<<<<<<<<<<<<<\"}}"}
+{"file_name": "239121.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000009243<<<<<<<<<<<<<<<\", \"mrz2\": \"1101018M1106264AUT<<<<<<<<<<<4\", \"mrz3\": \"MUSTERMANN<<MAX<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "239133.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000016807<<<<<<<<<<<<<<<\", \"mrz2\": \"1101018M1106264AUT<<<<<<<<<<<6\", \"mrz3\": \"MUSTERMANN<<MAX<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "239145.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000565992<<<<<<<<<<<<<<<\", \"mrz2\": \"1101018M1702242AUT<<<<<<<<<<<4\", \"mrz3\": \"MUSTERMANN<<MAX<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "239157.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000005739<<<<<<<<<<<<<<<\", \"mrz2\": \"1101018M1702242AUT<<<<<<<<<<<0\", \"mrz3\": \"MUSTERMANN<<MAX<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "239169.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000283371<<<<<<<<<<<<<<<\", \"mrz2\": \"1101018M1106264AUT<<<<<<<<<<<8\", \"mrz3\": \"MUSTERMANN<<MAX<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "239241.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000116327<<<<<<<<<<<<<<<\", \"mrz2\": \"1101018M1702242AUT<<<<<<<<<<<4\", \"mrz3\": \"MUSTERMANN<<MAX<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "239253.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000013806<<<<<<<<<<<<<<<\", \"mrz2\": \"1101018M1702242AUT<<<<<<<<<<<6\", \"mrz3\": \"MUSTERMANN<<MAX<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "239277.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000030944<<<<<<<<<<<<<<<\", \"mrz2\": \"1101018M1702242AUT<<<<<<<<<<<0\", \"mrz3\": \"MUSTERMANN<<MAX<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "239289.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000282307<<<<<<<<<<<<<<<\", \"mrz2\": \"1101018M1106264AUT<<<<<<<<<<<6\", \"mrz3\": \"MUSTERMANN<<MAX<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "239373.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ATAUTA123456784<<<<<<<<<<<<<<<\", \"mrz2\": \"8101017F1412314UTO<<<<<<<<<<<0\", \"mrz3\": \"MUSTERFRAU<<MARIA<<<<<<<<<<<<<\"}}"}
+{"file_name": "246346.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ATAUTA123456784<<<<<<<<<<<<<<<\", \"mrz2\": \"8101017F1812316UTO<<<<<<<<<<<0\", \"mrz3\": \"MUSTERFRAU<<MARIA<<<<<<<<<<<<<\"}}"}
+{"file_name": "246442.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ATAUTA123456784<<<<<<<<<<<<<<<\", \"mrz2\": \"8101017F1812316UTO<<<<<<<<<<<0\", \"mrz3\": \"MUSTERFRAU<<MARIA<<<<<<<<<<<<<\"}}"}
+
+

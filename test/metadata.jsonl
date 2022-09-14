@@ -1,0 +1,8 @@
+{"file_name": "35702.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"NNAUTA0000009999<<<<<<<<<<<<<<\", \"mrz2\": \"7109094F1212318AUT<<<<<<<<<<<7\", \"mrz3\": \"MUSTERFRAU<<ISOLDE<<<<<<<<<<<<\"}}"}
+{"file_name": "237965.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000000343<<<<<<<<<<<<<<<\", \"mrz2\": \"7004018M0503062ARG<<<<<<<<<<<0\", \"mrz3\": \"MUSTERMANN<<KARL<<<<<<<<<<<<<<\"}}"}
+{"file_name": "238322.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000000343<<<<<<<<<<<<<<\",  \"mrz2\": \"7004018M0503062ARG<<<<<<<<<<\",   \"mrz3\": \"MUSTERMANN<<KARL<<<<<<<<<<<<<\"}}"}
+{"file_name": "239109.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000061036<<<<<<<<<<<<<<<\", \"mrz2\": \"1101018M1106264AUT<<<<<<<<<<<8\", \"mrz3\": \"MUSTERMANN<<MAX<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "239181.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000008121<<<<<<<<<<<<<<<\", \"mrz2\": \"1101018M1702241AUT<<<<<<<<<<<6\", \"mrz3\": \"MUSTERMANN<<MAX<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "239229.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000002990<<<<<<<<<<<<<<<\", \"mrz2\": \"1101018M1106264AUT<<<<<<<<<<<0\", \"mrz3\": \"MUSTERMANN<<MAX<<<<<<<<<<<<<<<\"}}"}
+
+
