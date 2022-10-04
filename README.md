@@ -1,4 +1,6 @@
-# Annotated dataset with documents from the Prado database.
+# Annotated dataset with documents from the Prado database
 
-https://www.consilium.europa.eu/prado/en/search-by-document-country.html
+<https://www.consilium.europa.eu/prado/en/search-by-document-country.html>
 
+## Format
+This dataset is prepared to be used within the Huggingface ecosystem. The file layout and annotations conform to the <https://huggingface.co/docs/datasets/image_load#imagefolder> specification.  
