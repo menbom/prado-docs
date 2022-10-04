@@ -4,7 +4,6 @@
 {"file_name": "AUT/H-Residency/239109.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000061036<<<<<<<<<<<<<<<\", \"mrz2\": \"1101018M1106264AUT<<<<<<<<<<<8\", \"mrz3\": \"MUSTERMANN<<MAX<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "AUT/H-Residency/239181.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000008121<<<<<<<<<<<<<<<\", \"mrz2\": \"1101018M1702241AUT<<<<<<<<<<<6\", \"mrz3\": \"MUSTERMANN<<MAX<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "AUT/H-Residency/239229.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000002990<<<<<<<<<<<<<<<\", \"mrz2\": \"1101018M1106264AUT<<<<<<<<<<<0\", \"mrz3\": \"MUSTERMANN<<MAX<<<<<<<<<<<<<<<\"}}"}
-
 {"file_name": "BEL/H-Residency/85937.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IDBELB10030260<01<<<<<<<<<<<<<\", \"mrz2\": \"8201227F0601315NZL820122084270\", \"mrz3\": \"FLORES<<GEMA<FREDERIC<J<<<<<<<\"}}"}
 {"file_name": "BEL/H-Residency/119059.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IDBELB10044080<00<<<<<<<<<<<<<\", \"mrz2\": \"8210209F0601315DEU821020084276\", \"mrz3\": \"FLORES<<GEMA<CAROLINE<J<<<<<<<\"}}"}
 {"file_name": "BEL/H-Residency/122229.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IDBELB10048560<03<<<<<<<<<<<<<\", \"mrz2\": \"8210209F0601315NZL821020084272\", \"mrz3\": \"FLORES<<GEMA<<<<<<<<<<<<<<<<<<\"}}"}
