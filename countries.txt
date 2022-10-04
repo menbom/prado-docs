@@ -3,6 +3,8 @@ TRAIN
 
 TEST
 - AUT
+- BEL
 
 VALIDATION
 - AUT
+- BEL
