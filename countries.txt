@@ -4,13 +4,16 @@ TRAIN
 - BGR
 - CHE
 - CYP
+- CZE
 
 TEST
 - AUT
 - BEL
 - CHE
+- CZE
 
 VALIDATION
 - AUT
 - BEL
 - CHE
+- CZE

@@ -60,4 +60,5 @@
 {"file_name": "CHE/H-Residency_back/325072.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARCHESP11016459230031412<<<<<<\", \"mrz2\": \"6506216M2001090SYC<<<<<<<<<<<6\", \"mrz3\": \"LESPERANCE<<YANNICK<<<<<<<<<<<\"}}"}
 {"file_name": "CYP/H-Residency_back/235046.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARCYPCY00000006<<<<<<<<<<<<<<<\", \"mrz2\": \"8901158F1505029IND<<<<<<<<<<<0\", \"mrz3\": \"ANSARI<<LAVINA<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "CYP/H-Residency_back/354641.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRCYPKY00000002<<<<<<<<<<<<<<<\", \"mrz2\": \"8012148M25061481ND<<<<<<<<<<<6\", \"mrz3\": \"SAMPLE<<JASON<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "CZE/H-Residency_back/235707.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRCZE0000000000<<<<<<<<<<<<<<<\", \"mrz2\": \"7812237F2403144UTO7862230123<0\", \"mrz3\": \"RUZICKOVA<<KATERINA<<<<<<<<<<<\"}}"}
 

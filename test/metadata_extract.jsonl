@@ -17,6 +17,7 @@
 {"file_name": "BEL/H-Residency_back/354710.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IDBEL0008903761<<<<<<<<<<<<<<<\", \"mrz2\": \"9502286F3109018UTO950228998747\", \"mrz3\": \"SPECIMEN<<SAMPLE<<<<<<<<<<<<<<\"}}"}
 {"file_name": "BEL/H-Residency_back/354724.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IDBEL0010100129<<<<<<<<<<<<<<<\", \"mrz2\": \"9502286F2609016UTO950228998743\", \"mrz3\": \"SPECIMEN<<SAMPLE<<<<<<<<<<<<<<\"}}"}
 {"file_name": "CHE/H-Residency_back/325008.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARCHESE00000134460026901<<<<<<\", \"mrz2\": \"6506249M2002097NLD<<<<<<<<<<<4\", \"mrz3\": \"VAN<OLDENBARNEVELT<<SEBASTIAAN\"}}"}
+{"file_name": "CZE/H-Residency_back/135986.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRCZE9990018523<<<<<<<<<<<<<<<\", \"mrz2\": \"7311073F2107028USA7361079990<3\", \"mrz3\": \"KOLBABA<<YENUFEVA<<<<<<<<<<<<<\"}}"}
 
 
 
