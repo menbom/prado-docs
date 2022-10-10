@@ -89,6 +89,9 @@
 {"file_name": "ESP/H-Residency_back/49149.jfif",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IXESP00000000T3<<<<<<<<<<<<<<<\", \"mrz2\": \"6408273F9612268POL<<<<<<<<<<<8\", \"mrz3\": \"HAGI<<CARMINA<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "ESP/H-Residency_back/145299.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRESPE124930148<Y1304982E<<<<<\", \"mrz2\": \"8506014M1603039CUB<<<<<<<<<<<3\", \"mrz3\": \"EXTRANJERO<EXTRANJERO<<ANDREA<\"}}"}
 {"file_name": "ESP/H-Residency_back/353877.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IXESPE000000008<00000000A<<<<<\", \"mrz2\": \"6408279F0301210ARG<<<<<<<<<<<4\", \"mrz3\": \"EXTRANJERO<EXTRANJERO<<CARMEN<\"}}"}
+{"file_name": "EST/H-Residency_back/126286.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"RPESTBA12345675<<<<<<<<<<<<<<<\", \"mrz2\": \"7101010F1601091XXX<<<<<<<<<<<4\", \"mrz3\": \"MAENNIK<<MARI<LIIS<<<<<<<<<<<<\"}}"}
+{"file_name": "EST/H-Residency_back/194636.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"RPESTFS00100460<<<<<<<<<<<<<<<\", \"mrz2\": \"7101010F1601024BRA<<<<<<<<<<<6\", \"mrz3\": \"MAENNIK<<MARI<LIIS<<<<<<<<<<<<\"}}"}
+{"file_name": "EST/H-Residency_back/303563.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRESTPS0000034238001085718<<<<\", \"mrz2\": \"8001081M2308135UKR<<<<<<<<<<<1\", \"mrz3\": \"JOEORG<<JAAK<KRISTJAN<<<<<<<<<\"}}"}
 
 
 

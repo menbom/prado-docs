@@ -7,6 +7,7 @@ TRAIN
 - CZE
 - DNK
 - ESP
+- EST
 
 TEST
 - AUT
@@ -16,6 +17,7 @@ TEST
 - DEU
 - DNK
 - ESP
+- EST
 
 VALIDATION
 - AUT
@@ -25,3 +27,4 @@ VALIDATION
 - DEU
 - DNK
 - ESP
+- EST
