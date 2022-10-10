@@ -8,6 +8,7 @@ TRAIN
 - DNK
 - ESP
 - EST
+- FIN
 
 TEST
 - AUT
@@ -18,6 +19,7 @@ TEST
 - DNK
 - ESP
 - EST
+- FIN
 
 VALIDATION
 - AUT
