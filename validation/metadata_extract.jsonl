@@ -9,6 +9,8 @@
 {"file_name": "CHE/H-Residency_back/356005.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARCHESA00015231214299755<<<<<<\", \"mrz2\": \"6505068M2211167XXX<<<<<<<<<<<8\", \"mrz3\": \"SPECIMEN<<ASYLUM<<<<<<<<<<<<<<\"}}"}
 {"file_name": "CZE/H-Residency_back/341369.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRCZE9990044034<<<<<<<<<<<<<<<\", \"mrz2\": \"9811153M2106308AIA9811150570<1\", \"mrz3\": \"SPECIMEN<<LUKA<LUBOSCHOVITCH<<\"}}"}
 {"file_name": "DEU/H-Residency_back/337806.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARD<<Y701RY3CT7<<<<<<<<<<<<<<<\", \"mrz2\": \"8308126F3101034GBR<<<<<<<<<<<4\", \"mrz3\": \"MUSTERMANN<<ERIKA<<<<<<<<<<<<<\"}}"}
+{"file_name": "DNK/H-Residency_back/105177.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"3301290M9809140DNK<<<<<<<<<<<0\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "DNK/H-Residency_back/324353.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRDNKDK00000001<<<<<<<<<<<<<<<\", \"mrz2\": \"8501019F1808018TUR<<<<<<<<<<<0\", \"mrz3\": \"PAPANDROPOULOUS<<ANNA<MARIA<<<\"}}"}
 
 
 

@@ -21,6 +21,11 @@
 {"file_name": "DEU/H-Residency_back/162907.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"AFD<<T020004M09<<<<<<<<<<<<<<<\", \"mrz2\": \"8604220F1603316RUS<<<<<<<<<<<6\", \"mrz3\": \"RASKOLNIKOWA<<NATASHA<<<<<<<<<\"}}"}
 {"file_name": "DEU/H-Residency_back/162937.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ASD<<T020004KK3<<<<<<<<<<<<<<<\", \"mrz2\": \"8604220M1603316CHE<<<<<<<<<<<8\", \"mrz3\": \"RUETLI<<BEAT<<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "DEU/H-Residency_back/162966.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARD<<TYYY4JW6W2<<<<<<<<<<<<<<<\", \"mrz2\": \"7708121F2103318TUR<<<<<<<<<<<0\", \"mrz3\": \"SALIHU<<SHKURTE<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "DNK/H-Residency_back/104230.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"3301290M9809140DNK<<<<<<<<<<<0\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "DNK/H-Residency_back/104319.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"3301290M9809140DNK<<<<<<<<<<<0\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "DNK/H-Residency_back/104597.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"8101291M0408145TUR<<<<<<<<<<<2\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "DNK/H-Residency_back/104692.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"3301290M9809140DNK<<<<<<<<<<<0\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "DNK/H-Residency_back/104707.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"3301290M9809140DNK<<<<<<<<<<<0\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
 
 
 

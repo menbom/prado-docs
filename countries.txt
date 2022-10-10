@@ -5,6 +5,7 @@ TRAIN
 - CHE
 - CYP
 - CZE
+- DNK
 
 TEST
 - AUT
@@ -12,6 +13,7 @@ TEST
 - CHE
 - CZE
 - DEU
+- DNK
 
 VALIDATION
 - AUT
@@ -19,3 +21,4 @@ VALIDATION
 - CHE
 - CZE
 - DEU
+- DNK
