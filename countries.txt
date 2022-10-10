@@ -11,9 +11,11 @@ TEST
 - BEL
 - CHE
 - CZE
+- DEU
 
 VALIDATION
 - AUT
 - BEL
 - CHE
 - CZE
+- DEU

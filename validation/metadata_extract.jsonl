@@ -8,6 +8,7 @@
 {"file_name": "BEL/H-Residency_back/354716.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IDBEL0012053252<<<<<<<<<<<<<<<\", \"mrz2\": \"9502286F2609016UTO950228998747\", \"mrz3\": \"SPECIMEN<<SAMPLE<<<<<<<<<<<<<<\"}}"}
 {"file_name": "CHE/H-Residency_back/356005.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARCHESA00015231214299755<<<<<<\", \"mrz2\": \"6505068M2211167XXX<<<<<<<<<<<8\", \"mrz3\": \"SPECIMEN<<ASYLUM<<<<<<<<<<<<<<\"}}"}
 {"file_name": "CZE/H-Residency_back/341369.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRCZE9990044034<<<<<<<<<<<<<<<\", \"mrz2\": \"9811153M2106308AIA9811150570<1\", \"mrz3\": \"SPECIMEN<<LUKA<LUBOSCHOVITCH<<\"}}"}
+{"file_name": "DEU/H-Residency_back/337806.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARD<<Y701RY3CT7<<<<<<<<<<<<<<<\", \"mrz2\": \"8308126F3101034GBR<<<<<<<<<<<4\", \"mrz3\": \"MUSTERMANN<<ERIKA<<<<<<<<<<<<<\"}}"}
 
 
 

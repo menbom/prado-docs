@@ -63,4 +63,10 @@
 {"file_name": "CYP/H-Residency_back/235046.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARCYPCY00000006<<<<<<<<<<<<<<<\", \"mrz2\": \"8901158F1505029IND<<<<<<<<<<<0\", \"mrz3\": \"ANSARI<<LAVINA<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "CYP/H-Residency_back/354641.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRCYPKY00000002<<<<<<<<<<<<<<<\", \"mrz2\": \"8012148M25061481ND<<<<<<<<<<<6\", \"mrz3\": \"SAMPLE<<JASON<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "CZE/H-Residency_back/235707.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRCZE0000000000<<<<<<<<<<<<<<<\", \"mrz2\": \"7812237F2403144UTO7862230123<0\", \"mrz3\": \"RUZICKOVA<<KATERINA<<<<<<<<<<<\"}}"}
+{"file_name": "DEU/H-Residency_back/322587.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"APD<<AP00021048<<<<<<<<<<<<<<<\", \"mrz2\": \"6612120F2309095D<<<<<<<<<<<<<0\", \"mrz3\": \"MUSTERMANN<<ERIKA<<<<<<<<<<<<<\"}}"}
+{"file_name": "DEU/H-Residency_back/322610.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"APD<<AP00010198<<<<<<<<<<<<<<<\", \"mrz2\": \"6612120F2309095XYZ<<<<<<<<<<<0\", \"mrz3\": \"MUSTERMANN<<ERIKA<<<<<<<<<<<<<\"}}"}
+{"file_name": "DEU/H-Residency_back/322633.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"APD<<AP00003062<<<<<<<<<<<<<<<\", \"mrz2\": \"6612120F2309095XYZ<<<<<<<<<<<2\", \"mrz3\": \"MUSTERMANN<<ERIKA<<<<<<<<<<<<<\"}}"}
+{"file_name": "DEU/H-Residency_back/324049.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"AFD<<YYYY021872<<<<<<<<<<<<<<<\", \"mrz2\": \"6408125F2410317RUS<<<<<<<<<<<6\", \"mrz3\": \"MUSTERMANN<<ERIKA<<<<<<<<<<<<<\"}}"}
+{"file_name": "DEU/H-Residency_back/324072.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ASD<<YYYY022617<<<<<<<<<<<<<<<\", \"mrz2\": \"6408125F2410317CHE<<<<<<<<<<<6\", \"mrz3\": \"MUSTERMANN<<ERIKA<<<<<<<<<<<<<\"}}"}
+{"file_name": "DEU/H-Residency_back/324279.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARD<<YYYY022396<<<<<<<<<<<<<<<\", \"mrz2\": \"6408125F2410317TUR<<<<<<<<<<<8\", \"mrz3\": \"MUSTERMANN<<ERIKA<<<<<<<<<<<<<\"}}"}
 
