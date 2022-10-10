@@ -3,6 +3,7 @@ TRAIN
 - BEL
 - BGR
 - CHE
+- CYP
 
 TEST
 - AUT
