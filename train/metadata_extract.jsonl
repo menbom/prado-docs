@@ -57,5 +57,5 @@
 {"file_name": "BEL/H-Residency_back/354720.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IDBEL0010227422<<<<<<<<<<<<<<<\", \"mrz2\": \"9502286F2609016UTO950228998747\", \"mrz3\": \"SPECIMEN<<SAMPLE<<<<<<<<<<<<<<\"}}"}
 {"file_name": "BEL/H-Residency_back/354722.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IDBEL0012815119<<<<<<<<<<<<<<<\", \"mrz2\": \"9502286F2609016UTO950228998743\", \"mrz3\": \"SPECIMEN<<SAMPLE<<<<<<<<<<<<<<\"}}"}
 {"file_name": "BGR/H-Residency_back/273634.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRBGR8730000000<<<<<<<<<<<<<<<\", \"mrz2\": \"8508018F2304012AFG1001001001<4\", \"mrz3\": \"IVANOVA<<MARITSA<RADNEVA<<<<<<\"}}"}
-{"file_name": "BGR/H-Residency_back/325072.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARCHESP11016459230031412<<<<<<\", \"mrz2\": \"6506216M2001090SYC<<<<<<<<<<<6\", \"mrz3\": \"LESPERANCE<<YANNICK<<<<<<<<<<<\"}}"}
+{"file_name": "CHE/H-Residency_back/325072.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARCHESP11016459230031412<<<<<<\", \"mrz2\": \"6506216M2001090SYC<<<<<<<<<<<6\", \"mrz3\": \"LESPERANCE<<YANNICK<<<<<<<<<<<\"}}"}
 
