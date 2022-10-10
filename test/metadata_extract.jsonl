@@ -26,6 +26,15 @@
 {"file_name": "DNK/H-Residency_back/104597.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"8101291M0408145TUR<<<<<<<<<<<2\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "DNK/H-Residency_back/104692.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"3301290M9809140DNK<<<<<<<<<<<0\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "DNK/H-Residency_back/104707.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"3301290M9809140DNK<<<<<<<<<<<0\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "ESP/H-Residency_back/353893.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IXESPE00000000<X9999999-J<<<<<\", \"mrz2\": \"1234567F123456ESP<<<<<<<<<<<<5\", \"mrz3\": \"ESPANOLA<ESPANOLA<<CARMEN<<<<<\"}}"}
+{"file_name": "ESP/H-Residency_back/353910.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IXESPE00000000<X9999999-J<<<<<\", \"mrz2\": \"1234567F123456ESP<<<<<<<<<<<<5\", \"mrz3\": \"ESPANOLA<ESPANOLA<<CARMEN<<<<<\"}}"}
+{"file_name": "ESP/H-Residency_back/353927.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IXESPE00000000<X9999999-J<<<<<\", \"mrz2\": \"1234567F123456ESP<<<<<<<<<<<<5\", \"mrz3\": \"ESPANOLA<ESPANOLA<<CARMEN<<<<<\"}}"}
+
+
+
+
+
+{"file_name": "/H-Residency_back/",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"\", \"mrz2\": \"\", \"mrz3\": \"\"}}"}
 
 
 

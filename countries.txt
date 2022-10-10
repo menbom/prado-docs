@@ -6,6 +6,7 @@ TRAIN
 - CYP
 - CZE
 - DNK
+- ESP
 
 TEST
 - AUT
@@ -14,6 +15,7 @@ TEST
 - CZE
 - DEU
 - DNK
+- ESP
 
 VALIDATION
 - AUT
@@ -22,3 +24,4 @@ VALIDATION
 - CZE
 - DEU
 - DNK
+- ESP

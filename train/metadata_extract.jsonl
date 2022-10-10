@@ -82,6 +82,15 @@
 {"file_name": "DNK/H-Residency_back/104988.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"8101291M0408145TUR<<<<<<<<<<<2\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "DNK/H-Residency_back/105005.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"8101291M0408145TUR<<<<<<<<<<<2\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "DNK/H-Residency_back/105034.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"8101291M0408145TUR<<<<<<<<<<<2\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "ESP/H-Residency_back/41528.jfif",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IXESP00000009D3<<<<<<<<<<<<<<<\", \"mrz2\": \"6408273F9612268POL<<<<<<<<<<<8\", \"mrz3\": \"HAGI<<CARMINA<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "ESP/H-Residency_back/41705.jfif",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IXESP00000111L3<<<<<<<<<<<<<<<\", \"mrz2\": \"6408273F9612268POL<<<<<<<<<<<8\", \"mrz3\": \"HAGI<<CARMINA<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "ESP/H-Residency_back/49115.jfif",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IXESP00000000T3<<<<<<<<<<<<<<<\", \"mrz2\": \"6408273F9612268POL<<<<<<<<<<<8\", \"mrz3\": \"HAGI<<CARMINA<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "ESP/H-Residency_back/49132.jfif",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IXESP00000210A3<<<<<<<<<<<<<<<\", \"mrz2\": \"6408273F9612268POL<<<<<<<<<<<8\", \"mrz3\": \"HAGI<<CARMINA<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "ESP/H-Residency_back/49149.jfif",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IXESP00000000T3<<<<<<<<<<<<<<<\", \"mrz2\": \"6408273F9612268POL<<<<<<<<<<<8\", \"mrz3\": \"HAGI<<CARMINA<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "ESP/H-Residency_back/145299.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRESPE124930148<Y1304982E<<<<<\", \"mrz2\": \"8506014M1603039CUB<<<<<<<<<<<3\", \"mrz3\": \"EXTRANJERO<EXTRANJERO<<ANDREA<\"}}"}
+{"file_name": "ESP/H-Residency_back/353877.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IXESPE000000008<00000000A<<<<<\", \"mrz2\": \"6408279F0301210ARG<<<<<<<<<<<4\", \"mrz3\": \"EXTRANJERO<EXTRANJERO<<CARMEN<\"}}"}
+
+
 
 
 {"file_name": "/H-Residency_back/",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"\", \"mrz2\": \"\", \"mrz3\": \"\"}}"}
