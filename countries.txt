@@ -1,11 +1,15 @@
 TRAIN
 - AUT
 - BEL
+- BGR
+- CHE
 
 TEST
 - AUT
 - BEL
+- CHE
 
 VALIDATION
 - AUT
 - BEL
+- CHE

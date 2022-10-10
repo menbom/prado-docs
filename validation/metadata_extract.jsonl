@@ -1,11 +1,12 @@
-{"file_name": "AUT/H-Residency/125576.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ATAUTX000010024<<<<<<<<<<<<<<<\", \"mrz2\": \"8112314F1912319UTO<<<<<<<<<<<4\", \"mrz3\": \"MUSTERFRAU<<MARIA<<<<<<<<<<<<<\"}}"}
-{"file_name": "AUT/H-Residency/239193.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000622738<<<<<<<<<<<<<<<\", \"mrz2\": \"1101018M1702242AUT<<<<<<<<<<<2\", \"mrz3\": \"MUSTERMANN<<MAX<<<<<<<<<<<<<<<\"}}"}
-{"file_name": "AUT/H-Residency/239265.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000004019<<<<<<<<<<<<<<<\", \"mrz2\": \"1101018M1106264AUT<<<<<<<<<<<2\", \"mrz3\": \"MUSTERMANN<<MAX<<<<<<<<<<<<<<<\"}}"}
-{"file_name": "BEL/H-Residency/69640.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IDBELB10032570<07<<<<<<<<<<<<<\", \"mrz2\": \"8210209F0601315NZL821020084270\", \"mrz3\": \"FLORES<<GEMA<CAROLINE<J<<<<<<<\"}}"}
-{"file_name": "BEL/H-Residency/121369.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IDBELB10046980<05<<<<<<<<<<<<<\", \"mrz2\": \"8210221F0601315DEU821022084278\", \"mrz3\": \"FLORES<<GEMA<GUY<M<<<<<<<<<<<<\"}}"}
-{"file_name": "BEL/H-Residency/269509.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IDBEL110000000<0<<<<<<<<<<<<<<\", \"mrz2\": \"0001018F1406126UTO000101992008\", \"mrz3\": \"SPECIMEN<<SPECIMEN<<<<<<<<<<<<\"}}"}
-{"file_name": "BEL/H-Residency/299411.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IDBELP9990301<0<<<<<<<<<<<<<<<\", \"mrz2\": \"6002017F0008017BEL<<<<<<<<<<<0\", \"mrz3\": \"SPECIMEN<<SPECIMEN<<<<<<<<<<<<\"}}"}
-{"file_name": "BEL/H-Residency/354716.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IDBEL0012053252<<<<<<<<<<<<<<<\", \"mrz2\": \"9502286F2609016UTO950228998747\", \"mrz3\": \"SPECIMEN<<SAMPLE<<<<<<<<<<<<<<\"}}"}
+{"file_name": "AUT/H-Residency_back/125576.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ATAUTX000010024<<<<<<<<<<<<<<<\", \"mrz2\": \"8112314F1912319UTO<<<<<<<<<<<4\", \"mrz3\": \"MUSTERFRAU<<MARIA<<<<<<<<<<<<<\"}}"}
+{"file_name": "AUT/H-Residency_back/239193.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000622738<<<<<<<<<<<<<<<\", \"mrz2\": \"1101018M1702242AUT<<<<<<<<<<<2\", \"mrz3\": \"MUSTERMANN<<MAX<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "AUT/H-Residency_back/239265.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICAUT0000004019<<<<<<<<<<<<<<<\", \"mrz2\": \"1101018M1106264AUT<<<<<<<<<<<2\", \"mrz3\": \"MUSTERMANN<<MAX<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "BEL/H-Residency_back/69640.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IDBELB10032570<07<<<<<<<<<<<<<\", \"mrz2\": \"8210209F0601315NZL821020084270\", \"mrz3\": \"FLORES<<GEMA<CAROLINE<J<<<<<<<\"}}"}
+{"file_name": "BEL/H-Residency_back/121369.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IDBELB10046980<05<<<<<<<<<<<<<\", \"mrz2\": \"8210221F0601315DEU821022084278\", \"mrz3\": \"FLORES<<GEMA<GUY<M<<<<<<<<<<<<\"}}"}
+{"file_name": "BEL/H-Residency_back/269509.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IDBEL110000000<0<<<<<<<<<<<<<<\", \"mrz2\": \"0001018F1406126UTO000101992008\", \"mrz3\": \"SPECIMEN<<SPECIMEN<<<<<<<<<<<<\"}}"}
+{"file_name": "BEL/H-Residency_back/299411.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IDBELP9990301<0<<<<<<<<<<<<<<<\", \"mrz2\": \"6002017F0008017BEL<<<<<<<<<<<0\", \"mrz3\": \"SPECIMEN<<SPECIMEN<<<<<<<<<<<<\"}}"}
+{"file_name": "BEL/H-Residency_back/354716.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IDBEL0012053252<<<<<<<<<<<<<<<\", \"mrz2\": \"9502286F2609016UTO950228998747\", \"mrz3\": \"SPECIMEN<<SAMPLE<<<<<<<<<<<<<<\"}}"}
+{"file_name": "CHE/H-Residency_back/356005.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARCHESA00015231214299755<<<<<<\", \"mrz2\": \"6505068M2211167XXX<<<<<<<<<<<8\", \"mrz3\": \"SPECIMEN<<ASYLUM<<<<<<<<<<<<<<\"}}"}
 
 
 
