@@ -69,4 +69,20 @@
 {"file_name": "DEU/H-Residency_back/324049.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"AFD<<YYYY021872<<<<<<<<<<<<<<<\", \"mrz2\": \"6408125F2410317RUS<<<<<<<<<<<6\", \"mrz3\": \"MUSTERMANN<<ERIKA<<<<<<<<<<<<<\"}}"}
 {"file_name": "DEU/H-Residency_back/324072.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ASD<<YYYY022617<<<<<<<<<<<<<<<\", \"mrz2\": \"6408125F2410317CHE<<<<<<<<<<<6\", \"mrz3\": \"MUSTERMANN<<ERIKA<<<<<<<<<<<<<\"}}"}
 {"file_name": "DEU/H-Residency_back/324279.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARD<<YYYY022396<<<<<<<<<<<<<<<\", \"mrz2\": \"6408125F2410317TUR<<<<<<<<<<<8\", \"mrz3\": \"MUSTERMANN<<ERIKA<<<<<<<<<<<<<\"}}"}
+{"file_name": "DNK/H-Residency_back/104739.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"3301290M9809140DNK<<<<<<<<<<<0\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "DNK/H-Residency_back/104822.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"3301290M9809140DNK<<<<<<<<<<<0\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "DNK/H-Residency_back/104836.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"3301290M9809140DNK<<<<<<<<<<<0\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "DNK/H-Residency_back/104857.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"3301290M9809140DNK<<<<<<<<<<<0\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "DNK/H-Residency_back/104873.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"3301290M9809140DNK<<<<<<<<<<<0\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "DNK/H-Residency_back/104888.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"3301290M9809140DNK<<<<<<<<<<<0\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "DNK/H-Residency_back/104917.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"8101291M0408145TUR<<<<<<<<<<<2\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "DNK/H-Residency_back/104937.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"8101291M0408145TUR<<<<<<<<<<<2\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "DNK/H-Residency_back/104954.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"8101291M0408145TUR<<<<<<<<<<<2\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "DNK/H-Residency_back/104971.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"8101291M0408145TUR<<<<<<<<<<<2\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "DNK/H-Residency_back/104988.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"8101291M0408145TUR<<<<<<<<<<<2\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "DNK/H-Residency_back/105005.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"8101291M0408145TUR<<<<<<<<<<<2\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "DNK/H-Residency_back/105034.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"8101291M0408145TUR<<<<<<<<<<<2\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
+
+
+{"file_name": "/H-Residency_back/",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"\", \"mrz2\": \"\", \"mrz3\": \"\"}}"}
 
