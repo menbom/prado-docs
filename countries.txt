@@ -12,6 +12,7 @@ TRAIN
 - FRA
 - GRC
 - HRV
+- HUN
 
 TEST
 - AUT

@@ -109,6 +109,10 @@
 {"file_name": "HRV/H-Residency_back/287622.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ADHRV3001106<<374616806855<<<<\", \"mrz2\": \"7511138M1808144YYY<<<<<<<<<<<8\", \"mrz3\": \"MILKOVIC<<SINISA<<<<<<<<<<<<<<\"}}"}
 {"file_name": "HRV/H-Residency_back/287726.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ABHRV3001600<<616415574307<<<<\", \"mrz2\": \"6907204M2003256BIH<<<<<<<<<<<3\", \"mrz3\": \"SPECIMEN<<SPECIMEN<<<<<<<<<<<<\"}}"}
 {"file_name": "HRV/H-Residency_back/345514.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ADHRV3002100<<859842465860<<<<\", \"mrz2\": \"6303035F2504177RUS<<<<<<<<<<<5\", \"mrz3\": \"SPECIMEN<<SPECIMEN<<<<<<<<<<<<\"}}"}
+{"file_name": "HUN/H-Residency_back/137255.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRHUN0000015198<<<<<<<<<<<<<<<\", \"mrz2\": \"8005090F1601013BGDRBAAPZ<<<<<8\", \"mrz3\": \"MINTA<<ELEMER<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "HUN/H-Residency_back/137480.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRHUN0000023184<<<<<<<<<<<<<<<\", \"mrz2\": \"7806050F1606100ALBRBAAQB<<<<<1\", \"mrz3\": \"MINTA<<ELEMER<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "HUN/H-Residency_back/163912.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICHUN0000035536<<<<<<<<<<<<<<<\", \"mrz2\": \"8211309M1311303FRAMICMFA<<<<<3\", \"mrz3\": \"MINTA<<ELEMER<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "HUN/H-Residency_back/221190.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<HUN000226BK<3<<<<<<<<<<<<<<<\", \"mrz2\": \"7606308M1703205AFG<<<<<<<<<<<8\", \"mrz3\": \"MOHAMED<<SAMAD<<<<<<<<<<<<<<<<\"}}"}
 
 
 
