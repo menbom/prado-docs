@@ -9,6 +9,7 @@ TRAIN
 - ESP
 - EST
 - FIN
+- FRA
 
 TEST
 - AUT
