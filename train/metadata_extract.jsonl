@@ -100,6 +100,8 @@
 {"file_name": "FIN/H-Residency_back/330271.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRFINFI97444779<<<<<<<<<<<<<<<\", \"mrz2\": \"7803288M2506171XXX<<<<<<<<<<<4\", \"mrz3\": \"SPECIMEN<<SANTERI<<<<<<<<<<<<<\"}}"}
 {"file_name": "FIN/H-Residency_back/330289.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRFINFI97444779<<<<<<<<<<<<<<<\", \"mrz2\": \"7803288M2506182XXX<<<<<<<<<<<8\", \"mrz3\": \"SPECIMEN<<SANTERI<<<<<<<<<<<<<\"}}"}
 {"file_name": "FIN/H-Residency_back/340616.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<FIN6217959140<<<<<<<<<<<<<<<\", \"mrz2\": \"5001013M2608020XXX<<<<<<<<<<<2\", \"mrz3\": \"TRAVELLER<<TREVOR<<<<<<<<<<<<<\"}}"}
+{"file_name": "FRA/H-Residency_back/334399.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRFRA3MBMONSFJ7<5903000242<<<<\", \"mrz2\": \"8801018F3009174SEN<<<<<<<<<<<5\", \"mrz3\": \"TRAORE<<SALIMAH<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "FRA/H-Residency_back/334782.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CFFRAABC0009479<1234567890<<<<\", \"mrz2\": \"7906123F0709130BRA<<<<<<<<<<<5\", \"mrz3\": \"MARTIN<<CHRISTELLE<HELENE<<<<<\"}}"}
 
 
 
