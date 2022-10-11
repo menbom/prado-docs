@@ -102,6 +102,8 @@
 {"file_name": "FIN/H-Residency_back/340616.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<FIN6217959140<<<<<<<<<<<<<<<\", \"mrz2\": \"5001013M2608020XXX<<<<<<<<<<<2\", \"mrz3\": \"TRAVELLER<<TREVOR<<<<<<<<<<<<<\"}}"}
 {"file_name": "FRA/H-Residency_back/334399.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRFRA3MBMONSFJ7<5903000242<<<<\", \"mrz2\": \"8801018F3009174SEN<<<<<<<<<<<5\", \"mrz3\": \"TRAORE<<SALIMAH<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "FRA/H-Residency_back/334782.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CFFRAABC0009479<1234567890<<<<\", \"mrz2\": \"7906123F0709130BRA<<<<<<<<<<<5\", \"mrz3\": \"MARTIN<<CHRISTELLE<HELENE<<<<<\"}}"}
+{"file_name": "GRC/H-Residency_back/247364.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRGRCE123456782<<<<<<<<<<<<<<<\", \"mrz2\": \"9002188M1511066GRC<<<<<<<<<<<4\", \"mrz3\": \"ALIENSURNAME<<ALIENNAME<<<<<<<\"}}"}
+{"file_name": "GRC/H-Residency_back/356517.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRGRCTP12345676<<<<<<<<<<<<<<<\", \"mrz2\": \"7506279M3101148GBR<<<<<<<<<<<8\", \"mrz3\": \"CITIZEN<<POLITIS<<<<<<<<<<<<<<\"}}"}
 
 
 
