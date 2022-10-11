@@ -104,6 +104,11 @@
 {"file_name": "FRA/H-Residency_back/334782.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CFFRAABC0009479<1234567890<<<<\", \"mrz2\": \"7906123F0709130BRA<<<<<<<<<<<5\", \"mrz3\": \"MARTIN<<CHRISTELLE<HELENE<<<<<\"}}"}
 {"file_name": "GRC/H-Residency_back/247364.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRGRCE123456782<<<<<<<<<<<<<<<\", \"mrz2\": \"9002188M1511066GRC<<<<<<<<<<<4\", \"mrz3\": \"ALIENSURNAME<<ALIENNAME<<<<<<<\"}}"}
 {"file_name": "GRC/H-Residency_back/356517.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRGRCTP12345676<<<<<<<<<<<<<<<\", \"mrz2\": \"7506279M3101148GBR<<<<<<<<<<<8\", \"mrz3\": \"CITIZEN<<POLITIS<<<<<<<<<<<<<<\"}}"}
+{"file_name": "HRV/H-Residency_back/270216.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ABHRV3001118<<855160066697<<<<\", \"mrz2\": \"8808084F1805154DEU<<<<<<<<<<<1\", \"mrz3\": \"KOELLER<<BRIGITTE<<<<<<<<<<<<<\"}}"}
+{"file_name": "HRV/H-Residency_back/272885.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ABHRV3001581<<895567328295<<<<\", \"mrz2\": \"6910088F2004024SWE<<<<<<<<<<<7\", \"mrz3\": \"SPECIMEN<<SPECIMEN<<<<<<<<<<<<\"}}"}
+{"file_name": "HRV/H-Residency_back/287622.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ADHRV3001106<<374616806855<<<<\", \"mrz2\": \"7511138M1808144YYY<<<<<<<<<<<8\", \"mrz3\": \"MILKOVIC<<SINISA<<<<<<<<<<<<<<\"}}"}
+{"file_name": "HRV/H-Residency_back/287726.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ABHRV3001600<<616415574307<<<<\", \"mrz2\": \"6907204M2003256BIH<<<<<<<<<<<3\", \"mrz3\": \"SPECIMEN<<SPECIMEN<<<<<<<<<<<<\"}}"}
+{"file_name": "HRV/H-Residency_back/345514.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ADHRV3002100<<859842465860<<<<\", \"mrz2\": \"6303035F2504177RUS<<<<<<<<<<<5\", \"mrz3\": \"SPECIMEN<<SPECIMEN<<<<<<<<<<<<\"}}"}
 
 
 

@@ -11,6 +11,7 @@ TRAIN
 - FIN
 - FRA
 - GRC
+- HRV
 
 TEST
 - AUT
