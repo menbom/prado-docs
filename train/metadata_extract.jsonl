@@ -113,6 +113,7 @@
 {"file_name": "HUN/H-Residency_back/137480.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRHUN0000023184<<<<<<<<<<<<<<<\", \"mrz2\": \"7806050F1606100ALBRBAAQB<<<<<1\", \"mrz3\": \"MINTA<<ELEMER<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "HUN/H-Residency_back/163912.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICHUN0000035536<<<<<<<<<<<<<<<\", \"mrz2\": \"8211309M1311303FRAMICMFA<<<<<3\", \"mrz3\": \"MINTA<<ELEMER<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "HUN/H-Residency_back/221190.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<HUN000226BK<3<<<<<<<<<<<<<<<\", \"mrz2\": \"7606308M1703205AFG<<<<<<<<<<<8\", \"mrz3\": \"MOHAMED<<SAMAD<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "ISL/H-Residency_back/330971.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"RTISLIS00044390121212<1239<<<<\", \"mrz2\": \"1212123F0811242MLI<<<<<<<<<<<0\", \"mrz3\": \"AEVARSDOTTIR<<THURIDUR<OESP<<<\"}}"}
 
 
 
