@@ -15,6 +15,7 @@ TRAIN
 - HUN
 - ISL
 - ITA
+- LTU
 
 TEST
 - AUT

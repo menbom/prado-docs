@@ -120,6 +120,10 @@
 {"file_name": "ITA/H-Residency_back/298788.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CRITAI000000006<<<<<<<<<<<<<<<\", \"mrz2\": \"6601111F1512030ITA<<<<<<<<<<<6\", \"mrz3\": \"ALDOMAR<<MARIA<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "ITA/H-Residency_back/298805.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CRITAI000000006<<<<<<<<<<<<<<<\", \"mrz2\": \"6601111F15120301TA<<<<<<<<<<<6\", \"mrz3\": \"ALDOMAR<<MARIA<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "ITA/H-Residency_back/345326.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CRITAI000000006<<<<<<<<<<<<<<<\", \"mrz2\": \"9001011F2106308MEX<<<<<<<<<<<2\", \"mrz3\": \"ALDOMAR<<MARIA<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "LTU/H-Residency_back/60880.jfif",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"PLLTULT0000000045911231023<<<<\", \"mrz2\": \"5911239F1402151UTO<<<<<<<<<<<7\", \"mrz3\": \"BASANAVICIENE<<BIRUTE<<<<<<<<<\"}}"}
+{"file_name": "LTU/H-Residency_back/156289.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRLTULT0000000447803111025<<<<\", \"mrz2\": \"7803118F1701027UTO<<<<<<<<<<<6\", \"mrz3\": \"BRUZAITE<<VIGILIJA<<<<<<<<<<<<\"}}"}
+{"file_name": "LTU/H-Residency_back/354594.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ITLTU000000000049003111025<<<<\", \"mrz2\": \"9003118F2109170UTO<<<<<<<<<<<0\", \"mrz3\": \"BASANAVICIENE<<BIRUTE<<<<<<<<<\"}}"}
+{"file_name": "LTU/H-Residency_back/357644.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"AMLTU47000083<449003111045<<<<\", \"mrz2\": \"9003118F2501028UTO<<<<<<<<<<<4\", \"mrz3\": \"BASANAVICIENE<<BIRUTE<<<<<<<<<\"}}"}
 
 
 
