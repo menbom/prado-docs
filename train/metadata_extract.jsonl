@@ -114,6 +114,13 @@
 {"file_name": "HUN/H-Residency_back/163912.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ICHUN0000035536<<<<<<<<<<<<<<<\", \"mrz2\": \"8211309M1311303FRAMICMFA<<<<<3\", \"mrz3\": \"MINTA<<ELEMER<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "HUN/H-Residency_back/221190.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<HUN000226BK<3<<<<<<<<<<<<<<<\", \"mrz2\": \"7606308M1703205AFG<<<<<<<<<<<8\", \"mrz3\": \"MOHAMED<<SAMAD<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "ISL/H-Residency_back/330971.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"RTISLIS00044390121212<1239<<<<\", \"mrz2\": \"1212123F0811242MLI<<<<<<<<<<<0\", \"mrz3\": \"AEVARSDOTTIR<<THURIDUR<OESP<<<\"}}"}
+{"file_name": "ITA/H-Residency_back/73034.jfif",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CPITA01356AA<<9<<<<<<<<<<<<<<<\", \"mrz2\": \"7911152M0903237AND<<<<<<<<<<<0\", \"mrz3\": \"NDSJNNBNLK<<NKLNLKNKL<<<<<<<<<\"}}"}
+{"file_name": "ITA/H-Residency_back/118684.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<ITAI000000006<<<<<<<<<<<<<<<\", \"mrz2\": \"6601111F7101113ITA<<<<<<<<<<<4\", \"mrz3\": \"ALDOMAR<<MARIA<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "ITA/H-Residency_back/298773.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CRITAI000000006<<<<<<<<<<<<<<<\", \"mrz2\": \"6601111F2312031MEX<<<<<<<<<<<4\", \"mrz3\": \"ALDOMAR<<MARIA<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "ITA/H-Residency_back/298788.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CRITAI000000006<<<<<<<<<<<<<<<\", \"mrz2\": \"6601111F1512030ITA<<<<<<<<<<<6\", \"mrz3\": \"ALDOMAR<<MARIA<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "ITA/H-Residency_back/298805.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CRITAI000000006<<<<<<<<<<<<<<<\", \"mrz2\": \"6601111F15120301TA<<<<<<<<<<<6\", \"mrz3\": \"ALDOMAR<<MARIA<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "ITA/H-Residency_back/345326.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CRITAI000000006<<<<<<<<<<<<<<<\", \"mrz2\": \"9001011F2106308MEX<<<<<<<<<<<2\", \"mrz3\": \"ALDOMAR<<MARIA<<<<<<<<<<<<<<<<\"}}"}
+
 
 
 
