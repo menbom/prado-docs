@@ -17,6 +17,8 @@ TRAIN
 - ITA
 - LTU
 - LUX
+- LVA
+
 
 TEST
 - AUT

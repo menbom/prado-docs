@@ -129,6 +129,13 @@
 {"file_name": "LUX/H-Residency_back/282237.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CCLUXCC00000099<<<<<<<<<<<<<<<\", \"mrz2\": \"7408247F1810220FRA<<<<<<<<<<<2\", \"mrz3\": \"SPECIMEN<<JEANNE<<<<<<<<<<<<<<\"}}"}
 {"file_name": "LUX/H-Residency_back/282274.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CLLUXCL00000270<<<<<<<<<<<<<<<\", \"mrz2\": \"7408247F1810220FRA<<<<<<<<<<<0\", \"mrz3\": \"SPECIMEN<<JEANNE<<<<<<<<<<<<<<\"}}"}
 {"file_name": "LUX/H-Residency_back/335702.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRLUX0924010422201207<<<<<<<<<\", \"mrz2\": \"7806050M2312064BRA<<<<<<<<<<<6\", \"mrz3\": \"SPECIMEN<<JEAN<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "LVA/H-Residency_back/187531.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IELVAEA99906995101080<88884<<<\", \"mrz2\": \"8010100M1702091EST<<<<<<<<<<<4\", \"mrz3\": \"SPECIMEN<<ANDREW<<<<<<<<<<<<<<\"}}"}
+{"file_name": "LVA/H-Residency_back/319677.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"INLVANA99912588010181<88887<<<\", \"mrz2\": \"8101017M1703054XXX<<<<<<<<<<<6\", \"mrz3\": \"OBRAZCOVS<<ANDREJS<<<<<<<<<<<<\"}}"}
+{"file_name": "LVA/H-Residency_back/320001.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"INLVANA99242258324182<86672<<<\", \"mrz2\": \"8111111F2408219XXX<<<<<<<<<<<7\", \"mrz3\": \"OBRAZCOVA<<MARIJA<<<<<<<<<<<<<\"}}"}
+{"file_name": "LVA/H-Residency_back/320107.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IELVAEA99218047326231<98807<<<\", \"mrz2\": \"8010100F2907309EST<<<<<<<<<<<7\", \"mrz3\": \"SPECIMEN<<MARIA<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "LVA/H-Residency_back/344068.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRLVAUA99208875325429<75731<<<\", \"mrz2\": \"0009302F2109309UKR<<<<<<<<<<<0\", \"mrz3\": \"SPECIMEN<<MARIA<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "LVA/H-Residency_back/344101.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRLVAUA99917179111181<88883<<<\", \"mrz2\": \"8111111M1303018ARM<<<<<<<<<<<0\", \"mrz3\": \"MODELMAN<<ANDREW<<<<<<<<<<<<<<\"}}"}
+{"file_name": "LVA/H-Residency_back/347299.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRLVAUA99208048325429<75731<<<\", \"mrz2\": \"0009302F2109309UKR<<<<<<<<<<<4\", \"mrz3\": \"SPECIMEN<<MARIA<<<<<<<<<<<<<<<\"}}"}
 
 
 
