@@ -136,6 +136,16 @@
 {"file_name": "LVA/H-Residency_back/344068.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRLVAUA99208875325429<75731<<<\", \"mrz2\": \"0009302F2109309UKR<<<<<<<<<<<0\", \"mrz3\": \"SPECIMEN<<MARIA<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "LVA/H-Residency_back/344101.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRLVAUA99917179111181<88883<<<\", \"mrz2\": \"8111111M1303018ARM<<<<<<<<<<<0\", \"mrz3\": \"MODELMAN<<ANDREW<<<<<<<<<<<<<<\"}}"}
 {"file_name": "LVA/H-Residency_back/347299.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRLVAUA99208048325429<75731<<<\", \"mrz2\": \"0009302F2109309UKR<<<<<<<<<<<4\", \"mrz3\": \"SPECIMEN<<MARIA<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "NLD/H-Residency_back/58325.jfif",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ITNLD00005080<1CRV1234567890<<\", \"mrz2\": \"6202057F0204015CHE<I<32<<<<<<4\", \"mrz3\": \"BELSER<<JULIETTE<HENRIKE<SOPHI\"}}"}
+{"file_name": "NLD/H-Residency_back/126688.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IWNLD10003387<6VNR1234567890<<\", \"mrz2\": \"5502082F0306045MAR<W<34<<<<<<1\", \"mrz3\": \"VAN<EGMOND<<ADRIANA<WILHELMINA\"}}"}
+{"file_name": "NLD/H-Residency_back/197987.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IWNLD56009305<8VNR0100010202<<\", \"mrz2\": \"9404014F1310018CHE<W<42<<<<<<3\", \"mrz3\": \"BELSER<<JULIETTE<HENRIKE<SOPHI\"}}"}
+{"file_name": "NLD/H-Residency_back/251346.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRNLD52072102<3VNR1234567890<<\", \"mrz2\": \"9404014F1906017CHE<V<44<<<<<<1\", \"mrz3\": \"BELSER<<JULIETTE<HENRIKE<SOPHI\"}}"}
+{"file_name": "NLD/H-Residency_back/252054.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRNLD52074661<3VNR1234567890<<\", \"mrz2\": \"9404014F1906017CHE<FM<44<<<<<1\", \"mrz3\": \"BELSER<<JULIETTE<HENRIKE<SOPHI\"}}"}
+{"file_name": "NLD/H-Residency_back/318253.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ITNLD52077893<1VNR0600000799<<\", \"mrz2\": \"9404014F1304015CHE<I<32<<<<<<3\", \"mrz3\": \"BELSER<<JULIETTE<HENRIKE<SOPHI\"}}"}
+{"file_name": "NLD/H-Residency_back/318374.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ITNLD52068894<0VNR0500000049<<\", \"mrz2\": \"9404014F1704017CHE<EU<40<<<<<5\", \"mrz3\": \"BELSER<<JULIETTE<HENRIKE<SOPHI\"}}"}
+{"file_name": "NLD/H-Residency_back/334569.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ITNLDVSPFJBJL50VNR1234567890<<\", \"mrz2\": \"9404014F2510011CAN<I<40<<<<<<0\", \"mrz3\": \"BELSER<<JULIETTE<HENRIKE<SOPHI\"}}"}
+{"file_name": "NLD/H-Residency_back/342237.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ITNLDVSPB3CJ786VNR1234567890<<\", \"mrz2\": \"9404014F2510011CAN<FM<40<<<<<5\", \"mrz3\": \"BELSER<<JULIETTE<HENRIKE<SOPHI\"}}"}
+{"file_name": "NLD/H-Residency_back/342285.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRNLDVSP241CP24VNR1234567890<<\", \"mrz2\": \"9404014F2510011GBR<50<40<<<<<7\", \"mrz3\": \"BELSER<<JULIETTE<HENRIKE<SOPHI\"}}"}
 
 
 

@@ -32,7 +32,9 @@
 {"file_name": "EST/H-Residency_back/330777.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRESTPS0130332738001085718<<<<\", \"mrz2\": \"8001081M2509219UKR<<<<<<<<<<<1\", \"mrz3\": \"JOEORG<<JAAK<KRISTJAN<<<<<<<<<\"}}"}
 {"file_name": "FIN/H-Residency_back/276215.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<FIN0000000000<<<<<<<<<<<<<<<\", \"mrz2\": \"5001013M2201018XXX<<<<<<<<<<<2\", \"mrz3\": \"TRAVELLER<<TREVOR<<<<<<<<<<<<<\"}}"}
 {"file_name": "FIN/H-Residency_back/340412.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRFINFI97444779<<<<<<<<<<<<<<<\", \"mrz2\": \"7803288M2511236GBR<<<<<<<<<<<2\", \"mrz3\": \"SPECIMEN<<A<BREXIT<<<<<<<<<<<<\"}}"}
-
+{"file_name": "NLD/H-Residency_back/139854.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ITNLD52180471<4VNR1234567890<<\", \"mrz2\": \"9404014F1107157CHE<I<28<<<<<<2\", \"mrz3\": \"BELSER<<JULIETTE<HENRIKE<SOPHI\"}}"}
+{"file_name": "NLD/H-Residency_back/273249.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IWNLD56015989<7VNR1234567890<<\", \"mrz2\": \"9404014F1506015XXA<W<46<<<<<<2\", \"mrz3\": \"BELSER<<JULIETTE<HENRIKE<SOPHI\"}}"}
+{"file_name": "NLD/H-Residency_back/342260.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ITNLDVSPHB47698VNR1234567890<<\", \"mrz2\": \"9404014F2510011CHE<EU<40<<<<<6\", \"mrz3\": \"BELSER<<JULIETTE<HENRIKE<SOPHI\"}}"}
 
 
 
