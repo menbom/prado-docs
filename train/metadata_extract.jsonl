@@ -146,6 +146,12 @@
 {"file_name": "NLD/H-Residency_back/334569.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ITNLDVSPFJBJL50VNR1234567890<<\", \"mrz2\": \"9404014F2510011CAN<I<40<<<<<<0\", \"mrz3\": \"BELSER<<JULIETTE<HENRIKE<SOPHI\"}}"}
 {"file_name": "NLD/H-Residency_back/342237.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ITNLDVSPB3CJ786VNR1234567890<<\", \"mrz2\": \"9404014F2510011CAN<FM<40<<<<<5\", \"mrz3\": \"BELSER<<JULIETTE<HENRIKE<SOPHI\"}}"}
 {"file_name": "NLD/H-Residency_back/342285.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRNLDVSP241CP24VNR1234567890<<\", \"mrz2\": \"9404014F2510011GBR<50<40<<<<<7\", \"mrz3\": \"BELSER<<JULIETTE<HENRIKE<SOPHI\"}}"}
+{"file_name": "NOR/H-Residency_back/165961.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRNORN100000048<<<<<<<<<<<<<<<\", \"mrz2\": \"8301286F1306307BGD<<<<<<<<<<<6\", \"mrz3\": \"CHOWDHURY<<FELANI<<<<<<<<<<<<<\"}}"}
+{"file_name": "NOR/H-Residency_back/167698.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IENORN100005733<<<<<<<<<<<<<<<\", \"mrz2\": \"8506276F1505214CHL<<<<<<<<<<<2\", \"mrz3\": \"GONZALEZ<<MARTINA<<<<<<<<<<<<<\"}}"}
+{"file_name": "NOR/H-Residency_back/304742.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRNORHC00008159<<<<<<<<<<<<<<<\", \"mrz2\": \"9301283F1812017BGD<<<<<<<<<<<4\", \"mrz3\": \"CHOWDHURY<<FELANI<<<<<<<<<<<<<\"}}"}
+{"file_name": "NOR/H-Residency_back/313257.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IENORHC00003501<<<<<<<<<<<<<<<\", \"mrz2\": \"8906278F2212016CHL<<<<<<<<<<<4\", \"mrz3\": \"MARTINA<<GONZALEZ<<<<<<<<<<<<<\"}}"}
+{"file_name": "NOR/H-Residency_back/335133.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRNORHF00005973<<<<<<<<<<<<<<<\", \"mrz2\": \"0202022F2309073UTO<<<<<<<<<<<8\", \"mrz3\": \"SMIRNOVA<<SOFIYA<<<<<<<<<<<<<<\"}}"}
+{"file_name": "NOR/H-Residency_back/335154.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRNORHF00005973<<<<<<<<<<<<<<<\", \"mrz2\": \"0202022F2309073UTO<<<<<<<<<<<8\", \"mrz3\": \"SMIRNOVA<<SOFIYA<<<<<<<<<<<<<<\"}}"}
 
 
 
