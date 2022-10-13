@@ -16,6 +16,7 @@ TRAIN
 - ISL
 - ITA
 - LTU
+- LUX
 
 TEST
 - AUT

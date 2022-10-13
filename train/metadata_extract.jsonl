@@ -124,6 +124,11 @@
 {"file_name": "LTU/H-Residency_back/156289.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRLTULT0000000447803111025<<<<\", \"mrz2\": \"7803118F1701027UTO<<<<<<<<<<<6\", \"mrz3\": \"BRUZAITE<<VIGILIJA<<<<<<<<<<<<\"}}"}
 {"file_name": "LTU/H-Residency_back/354594.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ITLTU000000000049003111025<<<<\", \"mrz2\": \"9003118F2109170UTO<<<<<<<<<<<0\", \"mrz3\": \"BASANAVICIENE<<BIRUTE<<<<<<<<<\"}}"}
 {"file_name": "LTU/H-Residency_back/357644.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"AMLTU47000083<449003111045<<<<\", \"mrz2\": \"9003118F2501028UTO<<<<<<<<<<<4\", \"mrz3\": \"BASANAVICIENE<<BIRUTE<<<<<<<<<\"}}"}
+{"file_name": "LUX/H-Residency_back/197241.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRLUX3004051713110824<<<<<<<<<\", \"mrz2\": \"7806050F1608241BRA<<<<<<<<<<<2\", \"mrz3\": \"SPECIMEN<<JEANNE<<<<<<<<<<<<<<\"}}"}
+{"file_name": "LUX/H-Residency_back/282219.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CDLUXCD00000405<<<<<<<<<<<<<<<\", \"mrz2\": \"7805053F1809071BRA<<<<<<<<<<<6\", \"mrz3\": \"SPECIMEN<<JEANNE<<<<<<<<<<<<<<\"}}"}
+{"file_name": "LUX/H-Residency_back/282237.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CCLUXCC00000099<<<<<<<<<<<<<<<\", \"mrz2\": \"7408247F1810220FRA<<<<<<<<<<<2\", \"mrz3\": \"SPECIMEN<<JEANNE<<<<<<<<<<<<<<\"}}"}
+{"file_name": "LUX/H-Residency_back/282274.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CLLUXCL00000270<<<<<<<<<<<<<<<\", \"mrz2\": \"7408247F1810220FRA<<<<<<<<<<<0\", \"mrz3\": \"SPECIMEN<<JEANNE<<<<<<<<<<<<<<\"}}"}
+{"file_name": "LUX/H-Residency_back/335702.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRLUX0924010422201207<<<<<<<<<\", \"mrz2\": \"7806050M2312064BRA<<<<<<<<<<<6\", \"mrz3\": \"SPECIMEN<<JEAN<<<<<<<<<<<<<<<<\"}}"}
 
 
 
