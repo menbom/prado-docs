@@ -162,6 +162,17 @@
 {"file_name": "POL/H-Residency_back/317051.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<POLKH000011<1<<<<<<<<<<<<<<<\", \"mrz2\": \"7004063M1412277GEO<<<<<<<<<<<8\", \"mrz3\": \"KOWALSKI<<TADEUSZ<JAN<<<<<<<<<\"}}"}
 {"file_name": "POL/H-Residency_back/317135.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<POLSP000011<1<<<<<<<<<<<<<<<\", \"mrz2\": \"7004063M1412277DEU<<<<<<<<<<<8\", \"mrz3\": \"KOWALSKI<<TADEUSZ<JAN<<<<<<<<<\"}}"}
 {"file_name": "POL/H-Residency_back/330340.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRUTOZR00023504<<<<<<<<<<<<<<<\", \"mrz2\": \"8412195M2107176UTO<<<<<<<<<<<2\", \"mrz3\": \"KOWALSKI<<JAN<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "PRT/H-Residency_back/77804.jfif",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRPRT1234AZ5679<<<<<<<<<<<<<<<\", \"mrz2\": \"7404076F0912220BRA<<<<<<<<<<<4\", \"mrz3\": \"GARCAO<DE<MAGALHAES<<INES<<<<<\"}}"}
+{"file_name": "PRT/H-Residency_back/318094.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRPRT123AZ56787<<<<<<<<<<<<<<<\", \"mrz2\": \"7404076F2901086FRA<<<<<<<<<<<6\", \"mrz3\": \"GARCAO<DE<MAGALHAES<<INES<<<<<\"}}"}
+{"file_name": "PRT/H-Residency_back/318610.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRPRT46F0F75684<<<<<<<<<<<<<<<\", \"mrz2\": \"7404076F2209081BRA<<<<<<<<<<<6\", \"mrz3\": \"MAGALHAES<<INES<GARCAO<<<<<<<<\"}}"}
+{"file_name": "PRT/H-Residency_back/318661.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRPRTV22F355250<<<<<<<<<<<<<<<\", \"mrz2\": \"7404076F2709086BRA<<<<<<<<<<<4\", \"mrz3\": \"MAGALHAES<<INES<GARCAO<<<<<<<<\"}}"}
+{"file_name": "PRT/H-Residency_back/342531.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRPRT1234AZ7891<<<<<<<<<<<<<<<\", \"mrz2\": \"0009014F2509301AGO<<<<<<<<<<<2\", \"mrz3\": \"GONCALVES<MAGALHAES<<INES<AMAL\"}}"}
+{"file_name": "PRT/H-Residency_back/342570.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRPRT1234AZ7891<<<<<<<<<<<<<<<\", \"mrz2\": \"0009014F3009303AGO<<<<<<<<<<<0\", \"mrz3\": \"GONCALVES<MAGALHAES<<INES<AMAL\"}}"}
+{"file_name": "PRT/H-Residency_back/342610.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRPRT1234AZ7891<<<<<<<<<<<<<<<\", \"mrz2\": \"0009014F2509301AGO<<<<<<<<<<<2\", \"mrz3\": \"GONCALVES<MAGALHAES<<INES<AMAL\"}}"}
+{"file_name": "PRT/H-Residency_back/343010.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRPRTXXXXXXXXX9<<<<<<<<<<<<<<<\", \"mrz2\": \"0009014F2607159AGO<<<<<<<<<<<0\", \"mrz3\": \"GONCALVES<MAGALHAES<<INES<AMAL\"}}"}
+{"file_name": "PRT/H-Residency_back/343077.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRPRTXXXXXXXXX9<<<<<<<<<<<<<<<\", \"mrz2\": \"0009014F2607159AGO<<<<<<<<<<<0\", \"mrz3\": \"GONCALVES<MAGALHAES<<INES<AMAL\"}}"}
+{"file_name": "PRT/H-Residency_back/343147.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRPRTXXXXXXXXX9<<<<<<<<<<<<<<<\", \"mrz2\": \"0009014F2607159AGO<<<<<<<<<<<0\", \"mrz3\": \"GONCALVES<MAGALHAES<<INES<AMAL\"}}"}
+{"file_name": "PRT/H-Residency_back/343182.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRPRTXXXXXXXXX9<<<<<<<<<<<<<<<\", \"mrz2\": \"0009014F2607159AGO<<<<<<<<<<<0\", \"mrz3\": \"GONCALVES<MAGALHAES<<INES<AMAL\"}}"}
 
 
 
