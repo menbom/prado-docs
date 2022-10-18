@@ -35,6 +35,10 @@
 {"file_name": "NLD/H-Residency_back/139854.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ITNLD52180471<4VNR1234567890<<\", \"mrz2\": \"9404014F1107157CHE<I<28<<<<<<2\", \"mrz3\": \"BELSER<<JULIETTE<HENRIKE<SOPHI\"}}"}
 {"file_name": "NLD/H-Residency_back/273249.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IWNLD56015989<7VNR1234567890<<\", \"mrz2\": \"9404014F1506015XXA<W<46<<<<<<2\", \"mrz3\": \"BELSER<<JULIETTE<HENRIKE<SOPHI\"}}"}
 {"file_name": "NLD/H-Residency_back/342260.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ITNLDVSPHB47698VNR1234567890<<\", \"mrz2\": \"9404014F2510011CHE<EU<40<<<<<6\", \"mrz3\": \"BELSER<<JULIETTE<HENRIKE<SOPHI\"}}"}
+{"file_name": "POL/H-Residency_back/17553.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IEPOLRE00000001<<<<<<<<<<<<<<<\", \"mrz2\": \"8001014F0505011UTP<<<<<<<<<<<8\", \"mrz3\": \"WZOROWA<<JADWIGA<<<<<<<<<<<<<<\"}}"}
+{"file_name": "POL/H-Residency_back/155138.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRPOLZR40001432<<<<<<<<<<<<<<<\", \"mrz2\": \"8001014F1208010POL<<<<<<<<<<<8\", \"mrz3\": \"WZOROWA<<ANNA<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "POL/H-Residency_back/223394.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ITPOLZU40008290<<<<<<<<<<<<<<<\", \"mrz2\": \"6801014M1605011UTO<<<<<<<<<<<0\", \"mrz3\": \"KONALSKI<<JAN<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "POL/H-Residency_back/317176.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<POLS0000011<6<<<<<<<<<<<<<<<\", \"mrz2\": \"7004063M1412222RUS<<<<<<<<<<<8\", \"mrz3\": \"KOWALSKI<<TADEUSZ<JAN<<<<<<<<<\"}}"}
 
 
 

@@ -20,6 +20,7 @@ TRAIN
 - LVA
 - NLD
 - NOR
+- POL
 
 
 TEST
@@ -33,6 +34,7 @@ TEST
 - EST
 - FIN
 - NLD
+- POL
 
 
 VALIDATION
@@ -44,3 +46,4 @@ VALIDATION
 - DNK
 - ESP
 - EST
+- POL

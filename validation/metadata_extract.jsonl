@@ -10,9 +10,11 @@
 {"file_name": "CZE/H-Residency_back/341369.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRCZE9990044034<<<<<<<<<<<<<<<\", \"mrz2\": \"9811153M2106308AIA9811150570<1\", \"mrz3\": \"SPECIMEN<<LUKA<LUBOSCHOVITCH<<\"}}"}
 {"file_name": "DEU/H-Residency_back/337806.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARD<<Y701RY3CT7<<<<<<<<<<<<<<<\", \"mrz2\": \"8308126F3101034GBR<<<<<<<<<<<4\", \"mrz3\": \"MUSTERMANN<<ERIKA<<<<<<<<<<<<<\"}}"}
 {"file_name": "DNK/H-Residency_back/105177.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<DNKDK0000000<00<<<<<<<<<<<<<\", \"mrz2\": \"3301290M9809140DNK<<<<<<<<<<<0\", \"mrz3\": \"JENSEN<<JENS<<<<<<<<<<<<<<<<<<\"}}"}
-{"file_name": "DNK/H-Residency_back/324353.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRDNKDK00000001<<<<<<<<<<<<<<<\", \"mrz2\": \"8501019F1808018TUR<<<<<<<<<<<0\", \"mrz3\": \"PAPANDROPOULOUS<<ANNA<MARIA<<<\"}}"}
+{"file_name": "DNK/H-Residency_back/324353.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRDNKDK00000001<<<<<<<<<<<<<<<\", \"mrz2\": \"8501019F1808018TUR<<<<<<<<<<<0\", \"mrz3\": \"PAPANDROPOULOUS<<ANNA<MARIA<<<\"}}"}
 {"file_name": "ESP/H-Residency_back/341857.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRESPE000000008X1234567P<<<<<<\", \"mrz2\": \"8001014F2001012ARG<<<<<<<<<<<0\", \"mrz3\": \"MUESTRA<SAMPLE<<CARMEN<<<<<<<<\"}}"}
 {"file_name": "EST/H-Residency_back/54441.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"EI>OLE>KEHTIV>REISIDOKUMENDINA\", \"mrz2\": \">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\", \"mrz3\": \"NOT>VALID>AS>TRAVEL>DOCUMENT>>\"}}"}
+{"file_name": "POL/H-Residency_back/17510.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IKPOLPL00000008<<<<<<<<<<<<<<<\", \"mrz2\": \"6801014M0605014UTP<<<<<<<<<<<6\", \"mrz3\": \"WZOROWY<<JAN<<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "POL/H-Residency_back/317274.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<POLK0000011<0<<<<<<<<<<<<<<<\", \"mrz2\": \"7004063M1412277ITA<<<<<<<<<<<0\", \"mrz3\": \"KOWALSKI<<TADEUSZ<JAN<<<<<<<<<\"}}"}
 
 
 
