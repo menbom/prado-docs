@@ -152,6 +152,16 @@
 {"file_name": "NOR/H-Residency_back/313257.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IENORHC00003501<<<<<<<<<<<<<<<\", \"mrz2\": \"8906278F2212016CHL<<<<<<<<<<<4\", \"mrz3\": \"MARTINA<<GONZALEZ<<<<<<<<<<<<<\"}}"}
 {"file_name": "NOR/H-Residency_back/335133.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRNORHF00005973<<<<<<<<<<<<<<<\", \"mrz2\": \"0202022F2309073UTO<<<<<<<<<<<8\", \"mrz3\": \"SMIRNOVA<<SOFIYA<<<<<<<<<<<<<<\"}}"}
 {"file_name": "NOR/H-Residency_back/335154.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRNORHF00005973<<<<<<<<<<<<<<<\", \"mrz2\": \"0202022F2309073UTO<<<<<<<<<<<8\", \"mrz3\": \"SMIRNOVA<<SOFIYA<<<<<<<<<<<<<<\"}}"}
+{"file_name": "POL/H-Residency_back/26116.jfif",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IEPOLOE00000000<<<<<<<<<<<<<<<\", \"mrz2\": \"8001014F0505011UTP<<<<<<<<<<<0\", \"mrz3\": \"WZOROWA<<JADWIGA<<<<<<<<<<<<<<\"}}"}
+{"file_name": "POL/H-Residency_back/222928.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IOPOLZUB0000442<<<<<<<<<<<<<<<\", \"mrz2\": \"6801014M1505018UTO<<<<<<<<<<<6\", \"mrz3\": \"KOWALSKI<<JAN<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "POL/H-Residency_back/223021.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IDPOLZU80003440<<<<<<<<<<<<<<<\", \"mrz2\": \"6801014M2405012UTO<<<<<<<<<<<8\", \"mrz3\": \"KONALSKI<<JAN<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "POL/H-Residency_back/223104.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IZPOLZU300074X2<<<<<<<<<<<<<<<\", \"mrz2\": \"6801014M1411018UTO<<<<<<<<<<<8\", \"mrz3\": \"KONALSKI<<JAN<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "POL/H-Residency_back/223438.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IEPOLZU1000X616<<<<<<<<<<<<<<<\", \"mrz2\": \"6801014M1905010UTO<<<<<<<<<<<8\", \"mrz3\": \"KOWALSKI<<JAN<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "POL/H-Residency_back/223480.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IFPOLZU80005064<<<<<<<<<<<<<<<\", \"mrz2\": \"6801014M2405012UTO<<<<<<<<<<<0\", \"mrz3\": \"KOWALSKI<<JAN<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "POL/H-Residency_back/317009.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<POLD0000011<1<<<<<<<<<<<<<<<\", \"mrz2\": \"7004063M1412222GBR<<<<<<<<<<<8\", \"mrz3\": \"KOWALSKI<<TADEUSZ<JAN<<<<<<<<<\"}}"}
+{"file_name": "POL/H-Residency_back/317051.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<POLKH000011<1<<<<<<<<<<<<<<<\", \"mrz2\": \"7004063M1412277GEO<<<<<<<<<<<8\", \"mrz3\": \"KOWALSKI<<TADEUSZ<JAN<<<<<<<<<\"}}"}
+{"file_name": "POL/H-Residency_back/317135.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<POLSP000011<1<<<<<<<<<<<<<<<\", \"mrz2\": \"7004063M1412277DEU<<<<<<<<<<<8\", \"mrz3\": \"KOWALSKI<<TADEUSZ<JAN<<<<<<<<<\"}}"}
+{"file_name": "POL/H-Residency_back/330340.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRUTOZR00023504<<<<<<<<<<<<<<<\", \"mrz2\": \"8412195M2107176UTO<<<<<<<<<<<2\", \"mrz3\": \"KOWALSKI<<JAN<<<<<<<<<<<<<<<<<\"}}"}
 
 
 
