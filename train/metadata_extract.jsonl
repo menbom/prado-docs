@@ -173,6 +173,12 @@
 {"file_name": "PRT/H-Residency_back/343077.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRPRTXXXXXXXXX9<<<<<<<<<<<<<<<\", \"mrz2\": \"0009014F2607159AGO<<<<<<<<<<<0\", \"mrz3\": \"GONCALVES<MAGALHAES<<INES<AMAL\"}}"}
 {"file_name": "PRT/H-Residency_back/343147.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRPRTXXXXXXXXX9<<<<<<<<<<<<<<<\", \"mrz2\": \"0009014F2607159AGO<<<<<<<<<<<0\", \"mrz3\": \"GONCALVES<MAGALHAES<<INES<AMAL\"}}"}
 {"file_name": "PRT/H-Residency_back/343182.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRPRTXXXXXXXXX9<<<<<<<<<<<<<<<\", \"mrz2\": \"0009014F2607159AGO<<<<<<<<<<<0\", \"mrz3\": \"GONCALVES<MAGALHAES<<INES<AMAL\"}}"}
+{"file_name": "ROU/H-Residency_back/159384.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ITROU1234567<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"7009068F0408019D<<<<<<<<<<<<<4\", \"mrz3\": \"POPESCU<IONESCU<<IOANA<<<<<<<<\"}}"}
+{"file_name": "ROU/H-Residency_back/162606.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ITROU0000000<<0<<<<<<<<<<<<<<<\", \"mrz2\": \"7009068F0809018UTO<<<<<<<<<<<0\", \"mrz3\": \"POPESCU<IONESCU<<IOANA<<<<<<<<\"}}"}
+{"file_name": "ROU/H-Residency_back/162628.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ITROU0000000<<0<<<<<<<<<<<<<<<\", \"mrz2\": \"7009068F0809018UTO<<<<<<<<<<<0\", \"mrz3\": \"POPESCU<IONESCU<<IOANA<<<<<<<<\"}}"}
+{"file_name": "ROU/H-Residency_back/355249.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRROU9000001147<<<<<<<<<<<<<<<\", \"mrz2\": \"9001011F2505174UTO<<<<<<<<<<<0\", \"mrz3\": \"POPESCU<IONESCU<<LIVIA<CRISTIN\"}}"}
+{"file_name": "ROU/H-Residency_back/355261.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRROU9000001147<<<<<<<<<<<<<<<\", \"mrz2\": \"9001011F2505174UTO<<<<<<<<<<<0\", \"mrz3\": \"POPESCU<IONESCU<<LIVIA<CRISTIN\"}}"}
+{"file_name": "ROU/H-Residency_back/355302.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRROU9000001147<<<<<<<<<<<<<<<\", \"mrz2\": \"9001011F2505174UTO<<<<<<<<<<<0\", \"mrz3\": \"POPESCU<IONESCU<<LIVIA<CRISTIN\"}}"}
 
 
 
