@@ -185,6 +185,12 @@
 {"file_name": "SVK/H-Residency_back/276272.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRSVKXX002447986052299011<<<<<\", \"mrz2\": \"6002291F1611265CZE<<<<<<<<<<<1\", \"mrz3\": \"MODELKA<<ANNA<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "SVK/H-Residency_back/319881.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<SVKZZ0040248659340<<<<<<<<<<\", \"mrz2\": \"7102017F2201018CZE<<<<<<<<<<<9\", \"mrz3\": \"SPECIMEN<<DIPLOMAT<<<<<<<<<<<<\"}}"}
 {"file_name": "SVN/H-Residency_back/180388.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARSVN1234567897<<<<<<<<<<<<<<<\", \"mrz2\": \"8903015F1205189BIH<<<<<<<<<<<0\", \"mrz3\": \"SPECIMEN<<ANA<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "SWE/H-Residency_back/222034.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CRSWE11011657<219650509<<<<<<<\", \"mrz2\": \"6505091M1710021ETH<<<<<<<<<<<3\", \"mrz3\": \"SPECIMEN<<UPPEHAALLSKORT<<<<<<\"}}"}
+{"file_name": "SWE/H-Residency_back/268666.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARSWE02558575<919650509<<<<<<<\", \"mrz2\": \"6505091M1710021ETH<<<<<<<<<<<9\", \"mrz3\": \"SPECIMEN<<UTKORT<<<<<<<<<<<<<<\"}}"}
+{"file_name": "SWE/H-Residency_back/336287.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CRSWE059000162119790503<<<<<<<\", \"mrz2\": \"7905034M2509172BRA<<<<<<<<<<<8\", \"mrz3\": \"SPECIMEN<<SVEN<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "SWE/H-Residency_back/354414.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CRSWEXA0000017119820821<<<<<<<\", \"mrz2\": \"8208215F2701013UTO<<<<<<<<<<<7\", \"mrz3\": \"SPECIMEN<<SVEA<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "SWE/H-Residency_back/354458.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARSWE059000192019790501<<<<<<<\", \"mrz2\": \"7905012M26022353RA<<<<<<<<<<<6\", \"mrz3\": \"SPECIMEN<<SVEN<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "SWE/H-Residency_back/354505.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARSWEXA0000015919820821<<<<<<<\", \"mrz2\": \"8208215F2501017UTO<<<<<<<<<<<1\", \"mrz3\": \"SPECIMEN<<SVEA<<<<<<<<<<<<<<<<\"}}"}
 
 
 

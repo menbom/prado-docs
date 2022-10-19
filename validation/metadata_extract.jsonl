@@ -15,6 +15,7 @@
 {"file_name": "EST/H-Residency_back/54441.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"EI>OLE>KEHTIV>REISIDOKUMENDINA\", \"mrz2\": \">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\", \"mrz3\": \"NOT>VALID>AS>TRAVEL>DOCUMENT>>\"}}"}
 {"file_name": "POL/H-Residency_back/17510.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IKPOLPL00000008<<<<<<<<<<<<<<<\", \"mrz2\": \"6801014M0605014UTP<<<<<<<<<<<6\", \"mrz3\": \"WZOROWY<<JAN<<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "POL/H-Residency_back/317274.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<POLK0000011<0<<<<<<<<<<<<<<<\", \"mrz2\": \"7004063M1412277ITA<<<<<<<<<<<0\", \"mrz3\": \"KOWALSKI<<TADEUSZ<JAN<<<<<<<<<\"}}"}
+{"file_name": "SWE/H-Residency_back/275480.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CRSWE12004990<719650509<<<<<<<\", \"mrz2\": \"6505091M1710021ETH<<<<<<<<<<<3\", \"mrz3\": \"SPECIMEN<<PERMANENT<UPPEHAALLS\"}}"}
 
 
 

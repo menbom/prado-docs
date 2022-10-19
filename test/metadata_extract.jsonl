@@ -42,6 +42,8 @@
 {"file_name": "SVK/H-Residency_back/329457.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRSVKXX011518628858089141<<<<<\", \"mrz2\": \"8808084F2508131VNM<<<<<<<<<<<8\", \"mrz3\": \"MODELKA<<ANNA<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "SVK/H-Residency_back/329583.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRSVKXX011517368858089790<<<<<\", \"mrz2\": \"8808084F3008203CZE<<<<<<<<<<<4\", \"mrz3\": \"MODELKA<<ANNA<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "SVK/H-Residency_back/330910.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRSVKXX011445748858089746<<<<<\", \"mrz2\": \"8808084F2506300VNM<<<<<<<<<<<7\", \"mrz3\": \"MODELKA<<ANNA<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "SWE/H-Residency_back/137640.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARSWE00000000<019800504<<<<<<<\", \"mrz2\": \"8005045M1305207CHN<<<<<<<<<<<7\", \"mrz3\": \"STARK<<SIGGE<<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "SWE/H-Residency_back/354550.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CRSWEXA0000016019820821<<<<<<<\", \"mrz2\": \"8208215F2701013UTO<<<<<<<<<<<9\", \"mrz3\": \"SPECIMEN<<SVEA<<<<<<<<<<<<<<<<\"}}"}
 
 
 

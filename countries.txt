@@ -25,6 +25,7 @@ TRAIN
 - ROU
 - SVK
 - SVN
+- SWE
 
 
 TEST
@@ -40,6 +41,7 @@ TEST
 - NLD
 - POL
 - SVK
+- SWE
 
 
 VALIDATION
@@ -52,3 +54,4 @@ VALIDATION
 - ESP
 - EST
 - POL
+- SWE
