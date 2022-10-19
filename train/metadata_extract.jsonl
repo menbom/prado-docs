@@ -184,6 +184,7 @@
 {"file_name": "SVK/H-Residency_back/248116.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRSVK00000000<06052299011<<<<<\", \"mrz2\": \"6002291F1111260CZE<<<<<<<<<<<7\", \"mrz3\": \"MODELKA<<ANNA<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "SVK/H-Residency_back/276272.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRSVKXX002447986052299011<<<<<\", \"mrz2\": \"6002291F1611265CZE<<<<<<<<<<<1\", \"mrz3\": \"MODELKA<<ANNA<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "SVK/H-Residency_back/319881.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<SVKZZ0040248659340<<<<<<<<<<\", \"mrz2\": \"7102017F2201018CZE<<<<<<<<<<<9\", \"mrz3\": \"SPECIMEN<<DIPLOMAT<<<<<<<<<<<<\"}}"}
+{"file_name": "SVN/H-Residency_back/180388.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARSVN1234567897<<<<<<<<<<<<<<<\", \"mrz2\": \"8903015F1205189BIH<<<<<<<<<<<0\", \"mrz3\": \"SPECIMEN<<ANA<<<<<<<<<<<<<<<<<\"}}"}
 
 
 

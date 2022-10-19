@@ -24,6 +24,7 @@ TRAIN
 - PRT
 - ROU
 - SVK
+- SVN
 
 
 TEST
