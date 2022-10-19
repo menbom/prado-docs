@@ -23,6 +23,7 @@ TRAIN
 - POL
 - PRT
 - ROU
+- SVK
 
 
 TEST
@@ -37,6 +38,7 @@ TEST
 - FIN
 - NLD
 - POL
+- SVK
 
 
 VALIDATION

@@ -179,6 +179,11 @@
 {"file_name": "ROU/H-Residency_back/355249.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRROU9000001147<<<<<<<<<<<<<<<\", \"mrz2\": \"9001011F2505174UTO<<<<<<<<<<<0\", \"mrz3\": \"POPESCU<IONESCU<<LIVIA<CRISTIN\"}}"}
 {"file_name": "ROU/H-Residency_back/355261.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRROU9000001147<<<<<<<<<<<<<<<\", \"mrz2\": \"9001011F2505174UTO<<<<<<<<<<<0\", \"mrz3\": \"POPESCU<IONESCU<<LIVIA<CRISTIN\"}}"}
 {"file_name": "ROU/H-Residency_back/355302.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRROU9000001147<<<<<<<<<<<<<<<\", \"mrz2\": \"9001011F2505174UTO<<<<<<<<<<<0\", \"mrz3\": \"POPESCU<IONESCU<<LIVIA<CRISTIN\"}}"}
+{"file_name": "SVK/H-Residency_back/150697.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRSVKXX002470986052299011<<<<<\", \"mrz2\": \"6002291F1611265CZE<<<<<<<<<<<1\", \"mrz3\": \"MODELKA<<ANNA<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "SVK/H-Residency_back/150721.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRSVKXX002335506052299011<<<<<\", \"mrz2\": \"6002291F1611265CZE<<<<<<<<<<<7\", \"mrz3\": \"MODELKA<<ANNA<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "SVK/H-Residency_back/248116.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRSVK00000000<06052299011<<<<<\", \"mrz2\": \"6002291F1111260CZE<<<<<<<<<<<7\", \"mrz3\": \"MODELKA<<ANNA<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "SVK/H-Residency_back/276272.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRSVKXX002447986052299011<<<<<\", \"mrz2\": \"6002291F1611265CZE<<<<<<<<<<<1\", \"mrz3\": \"MODELKA<<ANNA<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "SVK/H-Residency_back/319881.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<SVKZZ0040248659340<<<<<<<<<<\", \"mrz2\": \"7102017F2201018CZE<<<<<<<<<<<9\", \"mrz3\": \"SPECIMEN<<DIPLOMAT<<<<<<<<<<<<\"}}"}
 
 
 

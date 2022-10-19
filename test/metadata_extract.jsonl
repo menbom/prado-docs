@@ -39,6 +39,9 @@
 {"file_name": "POL/H-Residency_back/155138.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRPOLZR40001432<<<<<<<<<<<<<<<\", \"mrz2\": \"8001014F1208010POL<<<<<<<<<<<8\", \"mrz3\": \"WZOROWA<<ANNA<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "POL/H-Residency_back/223394.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ITPOLZU40008290<<<<<<<<<<<<<<<\", \"mrz2\": \"6801014M1605011UTO<<<<<<<<<<<0\", \"mrz3\": \"KONALSKI<<JAN<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "POL/H-Residency_back/317176.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<POLS0000011<6<<<<<<<<<<<<<<<\", \"mrz2\": \"7004063M1412222RUS<<<<<<<<<<<8\", \"mrz3\": \"KOWALSKI<<TADEUSZ<JAN<<<<<<<<<\"}}"}
+{"file_name": "SVK/H-Residency_back/329457.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRSVKXX011518628858089141<<<<<\", \"mrz2\": \"8808084F2508131VNM<<<<<<<<<<<8\", \"mrz3\": \"MODELKA<<ANNA<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "SVK/H-Residency_back/329583.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRSVKXX011517368858089790<<<<<\", \"mrz2\": \"8808084F3008203CZE<<<<<<<<<<<4\", \"mrz3\": \"MODELKA<<ANNA<<<<<<<<<<<<<<<<<\"}}"}
+{"file_name": "SVK/H-Residency_back/330910.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRSVKXX011445748858089746<<<<<\", \"mrz2\": \"8808084F2506300VNM<<<<<<<<<<<7\", \"mrz3\": \"MODELKA<<ANNA<<<<<<<<<<<<<<<<<\"}}"}
 
 
 
