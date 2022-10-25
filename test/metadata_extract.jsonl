@@ -45,9 +45,13 @@
 {"file_name": "SWE/H-Residency_back/137640.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARSWE00000000<019800504<<<<<<<\", \"mrz2\": \"8005045M1305207CHN<<<<<<<<<<<7\", \"mrz3\": \"STARK<<SIGGE<<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "SWE/H-Residency_back/354550.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CRSWEXA0000016019820821<<<<<<<\", \"mrz2\": \"8208215F2701013UTO<<<<<<<<<<<9\", \"mrz3\": \"SPECIMEN<<SVEA<<<<<<<<<<<<<<<<\"}}"}
 
+{"file_name": "AUT/A-Passport/132811.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<AUTMUSTERFRAU<<VORNAME<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"P4366918<0AUT8101017F1903290<<<<<<<<<<<<<<<4\"}}"}
+{"file_name": "AUT/A-Passport/240943.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"PDAUTMUSTERFRAU<<MARIA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"D1200573<9AUT8112314F1912180<<<<<<<<<<<<<<<2\"}}"}
 
 
 
+
+{"file_name": "/A-Passport/",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"\", \"mrz2\": \"\"}}"}
 {"file_name": "/H-Residency_back/",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"\", \"mrz2\": \"\", \"mrz3\": \"\"}}"}
 
 

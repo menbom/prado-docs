@@ -183,7 +183,7 @@
 {"file_name": "SVK/H-Residency_back/150721.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRSVKXX002335506052299011<<<<<\", \"mrz2\": \"6002291F1611265CZE<<<<<<<<<<<7\", \"mrz3\": \"MODELKA<<ANNA<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "SVK/H-Residency_back/248116.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRSVK00000000<06052299011<<<<<\", \"mrz2\": \"6002291F1111260CZE<<<<<<<<<<<7\", \"mrz3\": \"MODELKA<<ANNA<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "SVK/H-Residency_back/276272.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"IRSVKXX002447986052299011<<<<<\", \"mrz2\": \"6002291F1611265CZE<<<<<<<<<<<1\", \"mrz3\": \"MODELKA<<ANNA<<<<<<<<<<<<<<<<<\"}}"}
-{"file_name": "SVK/H-Residency_back/319881.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<SVKZZ0040248659340<<<<<<<<<<\", \"mrz2\": \"7102017F2201018CZE<<<<<<<<<<<9\", \"mrz3\": \"SPECIMEN<<DIPLOMAT<<<<<<<<<<<<\"}}"}
+{"file_name": "SVK/H-Residency_back/319881.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<SVKZZ0040248659340<<<<<<<<<<\", \"mrz2\": \"7102017F2201018CZE<<<<<<<<<<<9\", \"mrz3\": \"SPECIMEN<<DIPLOMAT<<<<<<<<<<<<\"}}"}
 {"file_name": "SVN/H-Residency_back/180388.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARSVN1234567897<<<<<<<<<<<<<<<\", \"mrz2\": \"8903015F1205189BIH<<<<<<<<<<<0\", \"mrz3\": \"SPECIMEN<<ANA<<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "SWE/H-Residency_back/222034.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CRSWE11011657<219650509<<<<<<<\", \"mrz2\": \"6505091M1710021ETH<<<<<<<<<<<3\", \"mrz3\": \"SPECIMEN<<UPPEHAALLSKORT<<<<<<\"}}"}
 {"file_name": "SWE/H-Residency_back/268666.jpg",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARSWE02558575<919650509<<<<<<<\", \"mrz2\": \"6505091M1710021ETH<<<<<<<<<<<9\", \"mrz3\": \"SPECIMEN<<UTKORT<<<<<<<<<<<<<<\"}}"}
@@ -192,8 +192,15 @@
 {"file_name": "SWE/H-Residency_back/354458.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARSWE059000192019790501<<<<<<<\", \"mrz2\": \"7905012M26022353RA<<<<<<<<<<<6\", \"mrz3\": \"SPECIMEN<<SVEN<<<<<<<<<<<<<<<<\"}}"}
 {"file_name": "SWE/H-Residency_back/354505.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"ARSWEXA0000015919820821<<<<<<<\", \"mrz2\": \"8208215F2501017UTO<<<<<<<<<<<1\", \"mrz3\": \"SPECIMEN<<SVEA<<<<<<<<<<<<<<<<\"}}"}
 
+{"file_name": "AUT/A-Passport/40337.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<AUTMUSTERFRAU<<ISOLDE<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"F9999902<6AUT1111112F1412026<<<<<<<<<<<<<<<2\"}}"}
+{"file_name": "AUT/A-Passport/119601.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"PSAUTMUSTERFRAU<<VORNAME<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"S1009306<7AUT8101017F1903290<<<<<<<<<<<<<<<0\"}}"}
+{"file_name": "AUT/A-Passport/240610.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<AUTMUSTERFRAU<<MARIA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"U1234567<6AUT8112314F2412182<<<<<<<<<<<<<<<6\"}}"}
+{"file_name": "AUT/A-Passport/240896.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"PSAUTMUSTERFRAU<<MARIA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"S1200822<9AUT8112314F1912180<<<<<<<<<<<<<<<2\"}}"}
+{"file_name": "AUT/A-Passport/358484.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<AUTMUSTERFRAU<<MARIA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"U1234567<6AUT8112314F2412182<<<<<<<<<<<<<<<6\"}}"}
+{"file_name": "AUT/A-Passport/358656.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"PEAUTSPECIMEN<<MARIA<<<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"AN12345677AUT0012315F2303314<<<<<<<<<<<<<<<8\"}}"}
 
 
 
+{"file_name": "/A-Passport/",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"\", \"mrz2\": \"\"}}"}
 {"file_name": "/H-Residency_back/",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"\", \"mrz2\": \"\", \"mrz3\": \"\"}}"}
 

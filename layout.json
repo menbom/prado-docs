@@ -1,0 +1,36 @@
+{
+    "type": "A-Passport",
+    "mrz": [
+        {"mrz1": ""},
+        {"mrz2": ""}
+    ]
+}
+
+{
+    "type": "H-Residency_back",
+    "mrz": [
+        {"mrz1": ""},
+        {"mrz2": ""},
+        {"mrz3": ""}
+    ]
+}
+
+
+
+
+{
+    "menu": [
+        {"cnt": "2", "nm": "ICE BLAOKCOFFE", "price": "82,000"}, 
+        {"cnt": "1", "nm": "AVOCADO COFFEE", "price": "61,000"}, 
+        {"cnt": "1", "nm": "Oud CHINEN KATSU FF", "price": "51,000"}
+    ],
+    "sub_total": {
+        "discount_price": "19,400", 
+        "subtotal_price": "194,000"
+    }, 
+    "total": {
+        "cashprice": "200,000", 
+        "changeprice": "25,400", 
+        "total_price": "174,600"
+    }
+}
