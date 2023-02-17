@@ -17,9 +17,11 @@
 {"file_name": "POL/H-Residency_back/317274.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"I<POLK0000011<0<<<<<<<<<<<<<<<\", \"mrz2\": \"7004063M1412277ITA<<<<<<<<<<<0\", \"mrz3\": \"KOWALSKI<<TADEUSZ<JAN<<<<<<<<<\"}}"}
 {"file_name": "SWE/H-Residency_back/275480.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"CRSWE12004990<719650509<<<<<<<\", \"mrz2\": \"6505091M1710021ETH<<<<<<<<<<<3\", \"mrz3\": \"SPECIMEN<<PERMANENT<UPPEHAALLS\"}}"}
 
+{"file_name": "BEL/A-Passport/71389.jfif",          "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<BELSPECIMEN<<LUCIENNE<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"EE173029<OBEL0311063F0412225<<<<<<<<<<<<<<02\"}}"}
+{"file_name": "BEL/A-Passport/294869.jpg",          "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<BELSPECIMEN<<EMMA<<<<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"LA000000<7BEL8412184F2203274<<<<<<<<<<<<<<04\"}}"}
 
 
-
+{"file_name": "/A-Passport/",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"\", \"mrz2\": \"\"}}"}
 {"file_name": "/H-Residency_back/",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"\", \"mrz2\": \"\", \"mrz3\": \"\"}}"}
 
 

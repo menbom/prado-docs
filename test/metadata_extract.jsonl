@@ -47,6 +47,11 @@
 
 {"file_name": "AUT/A-Passport/132811.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<AUTMUSTERFRAU<<VORNAME<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"P4366918<0AUT8101017F1903290<<<<<<<<<<<<<<<4\"}}"}
 {"file_name": "AUT/A-Passport/240943.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"PDAUTMUSTERFRAU<<MARIA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"D1200573<9AUT8112314F1912180<<<<<<<<<<<<<<<2\"}}"}
+{"file_name": "BEL/A-Passport/47726.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<BELSPECIMEN<<LUCIENNE<N<S<<<<<<<<<<<<<<<<<\", \"mrz2\": \"LD000000<6XXX5012251F0302151<<<<<<<<<<<<<<02\"}}"}
+{"file_name": "BEL/A-Passport/254044.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<BELSPECIMEN<<BARBARA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"EH100396<4BEL9911064F1306031<<<<<<<<<<<<<<00\"}}"}
+{"file_name": "BEL/A-Passport/257162.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<BELSPECIMEN<<EMMA<<<<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"LA000000<7BEL9412181F1904172<<<<<<<<<<<<<<08\"}}"}
+{"file_name": "BEL/A-Passport/328615.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<BELSPECIMEN<<EMMA<<<<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"EP000000<3BEL8412140F2403270<<<<<<<<<<<<<<02\"}}"}
+{"file_name": "BEL/A-Passport/355694.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<BELSPECIMEN<<OLIVIA<<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"LD00000006UTO9707210F2702065<<<<<<<<<<<<<<08\"}}"}
 
 
 

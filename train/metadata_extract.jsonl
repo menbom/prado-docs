@@ -198,6 +198,18 @@
 {"file_name": "AUT/A-Passport/240896.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"PSAUTMUSTERFRAU<<MARIA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"S1200822<9AUT8112314F1912180<<<<<<<<<<<<<<<2\"}}"}
 {"file_name": "AUT/A-Passport/358484.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<AUTMUSTERFRAU<<MARIA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"U1234567<6AUT8112314F2412182<<<<<<<<<<<<<<<6\"}}"}
 {"file_name": "AUT/A-Passport/358656.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"PEAUTSPECIMEN<<MARIA<<<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"AN12345677AUT0012315F2303314<<<<<<<<<<<<<<<8\"}}"}
+{"file_name": "BEL/A-Passport/6383.jfif",     "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<BELSPECIMEN<<LUCIENNE<N<S<<<<<<<<<<<<<<<<<\", \"mrz2\": \"LA000000<7XXX5012251F0602138<<<<<<<<<<<<<<02\"}}"}
+{"file_name": "BEL/A-Passport/46542.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<BELSPECIMEN<<LUCIENNE<N<S<<<<<<<<<<<<<<<<<\", \"mrz2\": \"ED000000<7BEL5402104F0602150<<<<<<<<<<<<<<00\"}}"}
+{"file_name": "BEL/A-Passport/72116.jfif",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<BELSPECIMEN<<LUCIENNE<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"EG000000<6BEL0311063F1110160<<<<<<<<<<<<<<08\"}}"}
+{"file_name": "BEL/A-Passport/252830.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<BELSPECIMEN<<EMMA<<<<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"EM000000<4BEL9412125F2104175<<<<<<<<<<<<<<02\"}}"}
+{"file_name": "BEL/A-Passport/254102.jfif",   "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<BELSPECIMEN<<BARBARA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"EH451126<4BEL9911064F1306031<<<<<<<<<<<<<<00\"}}"}
+{"file_name": "BEL/A-Passport/255283.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<BELSPECIMEN<<EMMA<<<<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"LD000000<6BEL9412217F1904161<<<<<<<<<<<<<<06\"}}"}
+{"file_name": "BEL/A-Passport/294765.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<BELSPECIMEN<<SPECIMEN<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"LD000000<6BEL1707133M1707133<<<<<<<<<<<<<<06\"}}"}
+{"file_name": "BEL/A-Passport/328560.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<BELSPECIMEN<<EMMA<<<<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"ES000000<2BEL9412147F2602280<<<<<<<<<<<<<<04\"}}"}
+{"file_name": "BEL/A-Passport/328667.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<BELSPECIMEN<<EMMA<<<<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"LA000000<7BEL9412181F2402295<<<<<<<<<<<<<<08\"}}"}
+{"file_name": "BEL/A-Passport/328721.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<BELSPECIMEN<<EMMA<<<<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"LD000000<6BEL9412217F2402295<<<<<<<<<<<<<<00\"}}"}
+{"file_name": "BEL/A-Passport/353058.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<BELSPECIMEN<<OLIVIA<<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"6A00000002UTO9707210F2902061<<<<<<<<<<<<<<06\"}}"}
+{"file_name": "BEL/A-Passport/355419.jpg",    "ground_truth": "{\"gt_parse\": {\"mrz1\": \"P<BELSPECIMEN<<OLIVIA<<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"LA00000007UTO9707210F2702065<<<<<<<<<<<<<<06\"}}"}
 
 
 

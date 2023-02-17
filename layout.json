@@ -1,18 +1,16 @@
 {
-    "type": "A-Passport",
-    "mrz": [
-        {"mrz1": ""},
-        {"mrz2": ""}
-    ]
+    "document_type": "A-Passport",
+    "mrz1": "",
+    "mrz2": "",
+    "checksum": ""
 }
 
 {
-    "type": "H-Residency_back",
-    "mrz": [
-        {"mrz1": ""},
-        {"mrz2": ""},
-        {"mrz3": ""}
-    ]
+    "document_type": "H-Residency_back",
+    "mrz1": "",
+    "mrz2": "",
+    "checksum": "",
+    "mrz3": ""
 }
 
 
