@@ -235,6 +235,17 @@
 {"file_name": "CZE/A-Passport/150438.jfif",   "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"PSCZESPECIMEN<<VZOR<<<<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"0000001<<7CZE5005228M15042175005221234<<<<24\"}}"}
 {"file_name": "CZE/A-Passport/151237.jfif",   "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"PDCZESPECIMEN<<VZOR<<<<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"D9900474<2CZE5005228M1608193500522123<<<<<42\"}}"}
 {"file_name": "CZE/A-Passport/152697.jfif",   "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"PSCZESPEC1MEN<<VZOR<<<<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"S9900252<5CZE5005228M1608207500522123<<<<<40\"}}"}
+{"file_name": "DEU/A-Passport/57874.jfif",    "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"PPD<<MUSTERMANN<<ERIKA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"A<00000000D<<6408125F0501013<<<<<<<<<<<<<<<8\"}}"}
+{"file_name": "DEU/A-Passport/59680.jfif",    "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"P<D<<MUSTERMANN<<ERIKA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"0792123457D<<4509121F0308304<<<<<<<<<<<<<<<2\"}}"}
+{"file_name": "DEU/A-Passport/59704.jfif",    "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"P<D<<MUSTERMANN<<ERIKA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"1220001046D<<5708127F0704021<<<<<<<<<<<<<<<0\"}}"}
+{"file_name": "DEU/A-Passport/100191.jfif",   "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"P<D<<MUSTERMANN<<ERIKA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"C01X0012K9D<<6408125F1710319<<<<<<<<<<<<<<<4\"}}"}
+{"file_name": "DEU/A-Passport/168954.jfif",   "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"PDD<<MUSTERMANN<<ERIKA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"C01Y0001Y0D<<6408125F1710319<<<<<<<<<<<<<<<2\"}}"}
+{"file_name": "DEU/A-Passport/169018.jfif",   "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"POD<<MUSTERMANN<<ERIKA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"C01Y003LT6D<<6408125F1710319<<<<<<<<<<<<<<<0\"}}"}
+{"file_name": "DEU/A-Passport/224308.jfif",   "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"P<D<<MUSTERMANN<<ERIKA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"1220009695D<<6408125F1110078<<<<<<<<<<<<<<<6\"}}"}
+{"file_name": "DEU/A-Passport/224435.jfif",   "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"P<D<<MUSTERMANN<<ERIKA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"0090017032D<<6408125F1511011<<<<<<<<<<<<<<<6\"}}"}
+{"file_name": "DEU/A-Passport/320806.jfif",   "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"PDD<<MUSTERMANN<<ERIKA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"C01YKMG786D<<6408125F2702283<<<<<<<<<<<<<<<8\"}}"}
+{"file_name": "DEU/A-Passport/341755.jfif",   "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"PCD<<MUSTERMANN<<LEONA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"G<00000002D<<0903156F2010315<<<<<<<<<<<<<<<2\"}}"}
+{"file_name": "DEU/A-Passport/350185.jfif",   "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"P<D<<MUSTERMANN<<ERIKA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"C01XO0T4780<<6408125F2702283<<<<<<<<<<<<<<<4\"}}"}
 
 
 {"file_name": "/A-Passport/",   "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"\", \"mrz2\": \"\"}}"}

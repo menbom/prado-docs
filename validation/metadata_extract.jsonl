@@ -65,6 +65,9 @@
 {"file_name": "CYP/A-Passport/332481.jpg",   "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"PDCYPPOLITIS<<ZINONAS<<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"F000000005CYP8012148M3006151<<<<<<<<<<<<<<02\"}}"}
 {"file_name": "CZE/A-Passport/153284.jfif",  "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"PDCZESPECIMEN<<VZOR<<<<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"0000000<<0CZE5005228M15042175005221234<<<<28\"}}"}
 {"file_name": "CZE/A-Passport/156196.jfif",  "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"P<CZESPECIMEN<<VZOR<<<<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"99004636<7CZE1102299F15031401152291111<<<<20\"}}"}
+{"file_name": "DEU/A-Passport/57952.jfif",   "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"P<D<<MUSTERMANN<<ERIKA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"1220001356D<<5708127F0704021<<<<<<<<<<<<<<<0\"}}"}
+{"file_name": "DEU/A-Passport/224400.jfif",  "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"P<D<<MUSTERMANN<<ERIKA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"1220011807D<<6408125F1401017<<<<<<<<<<<<<<<2\"}}"}
+{"file_name": "DEU/A-Passport/323510.jfif",  "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"POD<<MUSTERMANN<<ERIKA<<<<<<<<<<<<<<<<<<<<<<\", \"mrz2\": \"C01YT3WP24D<<6408125F2702283<<<<<<<<<<<<<<<2\"}}"}
 
 
 {"file_name": "/A-Passport/",   "ground_truth": "{\"gt_parse\": {\"document_type\": \"A-Passport\", \"mrz1\": \"\", \"mrz2\": \"\"}}"}
